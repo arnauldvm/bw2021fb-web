@@ -25,7 +25,6 @@ jobs:
         username: ${{ secrets.TEST_FTP_USER }}
         password: ${{ secrets.TEST_FTP_PASSWORD }}
         server-dir: ${{ secrets.TEST_FTP_TARGETDIR }}
-        exclude:
-          - .git*
+        exclude: .git*
           - .git*/**
           - cSpell.json
