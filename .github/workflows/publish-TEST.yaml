@@ -3,13 +3,13 @@ name: Deploy test website on push
 on:
   push:
     branches:
-      - site/TEST
+    - site/TEST
 
 env:
-  FTP_SERVER: ${{ secrets.TEST_FTP_SERVER }}
-  FTP_USER: ${{ secrets.TEST_FTP_USER }}
-  FTP_PASSWORD: ${{ secrets.TEST_FTP_PASSWORD }}
-  FTP_TARGETDIR: ${{ secrets.TEST_FTP_TARGETDIR }}
+- FTP_SERVER: ${{ secrets.TEST_FTP_SERVER }}
+- FTP_USER: ${{ secrets.TEST_FTP_USER }}
+- FTP_PASSWORD: ${{ secrets.TEST_FTP_PASSWORD }}
+- FTP_TARGETDIR: ${{ secrets.TEST_FTP_TARGETDIR }}
 
 jobs:
   web-deploy:
