@@ -3,7 +3,7 @@ name: Deploy test website on push
 on:
   push:
     branches:
-      - site/test
+      - site/TEST
 
 env:
   target: TEST
