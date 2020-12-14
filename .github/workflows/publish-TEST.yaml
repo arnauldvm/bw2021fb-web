@@ -6,7 +6,10 @@ on:
       - site/TEST
 
 env:
-  target: TEST
+  FTP_SERVER: ${{ secrets.TEST_FTP_SERVER }}
+  FTP_USER: ${{ secrets.TEST_FTP_USER }}
+  FTP_PASSWORD: ${{ secrets.TEST_FTP_PASSWORD }}
+  FTP_TARGETDIR: ${{ secrets.TEST_FTP_TARGETDIR }}
 
 jobs:
   web-deploy:
@@ -21,10 +24,10 @@ jobs:
       # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
       # This action is not verified by Github, hence we must authorize "all" actions!
       with:
-        server: ${{ secrets.${target}_FTP_SERVER }}
-        username: ${{ secrets.${target}_FTP_USER }}
-        password: ${{ secrets.${target}_FTP_PASSWORD }}
-        server-dir: ${{ secrets.${target}_FTP_TARGETDIR }}
+        server: $FTP_SERVER
+        username: $FTP_USER
+        password: $FTP_PASSWORD
+        server-dir: $FTP_TARGETDIR
         exclude:
           - .git*
           - .git*/**
