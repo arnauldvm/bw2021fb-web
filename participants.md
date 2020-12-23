@@ -2,9 +2,7 @@
 title: Participants
 layout: default
 ---
-{:column: .col-sm-6}
-{:card_white: .card .card-body}
-{:card_blue: .card .text-white .bg-info .mb-4 .card-body}
+{% include kramdown_definitions.md %}
 
 <!-- cspell:disable-->
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
