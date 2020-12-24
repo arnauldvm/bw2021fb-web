@@ -1,6 +1,5 @@
 ---
 title: Unités scoutes
-layout: page
 cards: units_cards
 ---
 <!-- cspell:disable-->
