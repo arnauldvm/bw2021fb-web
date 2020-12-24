@@ -15,8 +15,7 @@ jobs:
     steps:
 
     - name: Get latest code
-      uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf
-      # This is version v2.3.2, using SHA-1 to avoid backdoor introduction
+      uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf  # This is version v2.3.2, using SHA-1 to avoid backdoor introduction
 
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
     - name: Retrieving gems from cache
@@ -68,9 +67,8 @@ jobs:
         ls -lhAF
 
     - name: Sync files
-      uses: SamKirkland/FTP-Deploy-Action@2a4e9b1312ebeb73a1f72b9330c71831c1e4ce01
-      # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
-      # This action is not verified by Github, hence we must authorize "all" actions!
+      uses: SamKirkland/FTP-Deploy-Action@2a4e9b1312ebeb73a1f72b9330c71831c1e4ce01  # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
+        # This action is not verified by Github, hence we must authorize "all" actions!
       with:
         server: ${{ secrets.TEST_FTP_SERVER }}
         username: ${{ secrets.TEST_FTP_USER }}
