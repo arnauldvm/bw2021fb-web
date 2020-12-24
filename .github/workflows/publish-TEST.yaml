@@ -47,5 +47,5 @@ jobs:
         username: ${{ secrets.TEST_FTP_USER }}
         password: ${{ secrets.TEST_FTP_PASSWORD }}
         server-dir: ${{ secrets.TEST_FTP_TARGETDIR }}
-        local-dir: _site
+        local-dir: _site/
         exclude: .nojekyll  # Only useful for Github pages hosting
