@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <!-- As per https://getbootstrap.com/docs/4.5/getting-started/introduction/ -->
 <html lang="fr">
@@ -5,7 +7,7 @@
 <head>
     {%- include bootstrap_header.html %}
 
-    <title>Fanion Bleu 2021 > {{ page.title }}</title>
+    <title>Fanion Bleu 2021{% if page.title %} > {{ page.title }}{% endif %}</title>
 </head>
 
 <body>
