@@ -1,0 +1,18 @@
+exclude:
+- cSpell.json
+
+defaults:
+- scope:
+    path: index.html
+    type: pages
+  values:
+    layout: home
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: page
+
+collections:
+- units_cards
+- participants_cards
