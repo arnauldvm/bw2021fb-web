@@ -1,6 +1,6 @@
 ---
 title: Participants
-layout: default
+layout: page
 cards: participants_cards
 ---
 <!-- cspell:disable-->
