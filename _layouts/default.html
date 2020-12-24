@@ -1,0 +1,25 @@
+---
+---
+<!DOCTYPE html>
+<!-- As per https://getbootstrap.com/docs/4.5/getting-started/introduction/ -->
+<html lang="fr">
+
+<head>
+    {%- include bootstrap_header.html %}
+
+    <title>Fanion Bleu 2021{% if page.title %} > {{ page.title }}{% endif %}</title>
+</head>
+
+<body>
+    <!-- <h1 class="display-1">Fanion Bleu 2021</h1> -->
+    <div class="display-1"><a href="./"><img src="assets/images/bwfb2021-logo-large-blue.png" alt="Fanion Bleu 2021"></a></div>
+
+    <div class="container">
+{{ content }}
+    </div>
+
+{% comment %}{% endcomment %}
+    {%- include bootstrap_footer.html %}
+</body>
+
+</html>

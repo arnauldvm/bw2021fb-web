@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<!-- page layout >> -->
+        <h2 class="display-2">{{ page.title }}</h2>
+
+        <div class="card card-body">
+{{ content }}
+        </div>
+
+    {%- assign this_collection_arr = site.collections | where: "label", page.cards %}
+    {%- for this_collection in this_collection_arr %}
+        <br>
+        <div class="row">
+        {%- for _ in this_collection.docs %}
+        <div class="col-sm-6"><div class="card text-white bg-info mb-4 card-body">
+            <h3 class="card-title">{{ _.title }}</h3>
+            <div class="card-text">
+{{ _.content }}
+            </div>
+        </div></div>
+        {% endfor %}
+        </div>
+    {%- endfor %}
+<!-- << page layout -->

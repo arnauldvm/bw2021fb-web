@@ -9,13 +9,35 @@ env:
   target: TEST
 
 jobs:
-  web-deploy:
-    name: Deploy
+  jekyll-build:
+    name: Build
     runs-on: ubuntu-latest
     steps:
     - name: Get latest code
       uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf
       # This is version v2.3.2, using SHA-1 to avoid backdoor introduction
+
+    # Use GitHub Actions' cache to shorten build times and decrease load on servers
+    - uses: actions/cache@0781355a23dac32fd3bac414512f4b903437991a  # This is version v2.1.3, using SHA-1 to avoid backdoor introduction
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    - name: Build with Jekyll
+      uses: helaili/jekyll-action@e5db8e7c31456ee2fecff082a6fb66f2adf8b7c3  # Using SHA-1 to avoid backdoor introduction
+        # Unreleased, this commit is picked on the master, but is the most recent to support build_only parameter!
+      env:
+        JEKYLL_PAT: dummy_token_ignore
+      with:
+        build_only: true
+
+  web-deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    needs: jekyll-build
+    steps:
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@2a4e9b1312ebeb73a1f72b9330c71831c1e4ce01
       # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
@@ -25,6 +47,5 @@ jobs:
         username: ${{ secrets.TEST_FTP_USER }}
         password: ${{ secrets.TEST_FTP_PASSWORD }}
         server-dir: ${{ secrets.TEST_FTP_TARGETDIR }}
-        exclude: .git*
-          - .git*/**
-          - cSpell.json
+        local-dir: _site
+        exclude: .nojekyll  # Only useful for Github pages hosting
