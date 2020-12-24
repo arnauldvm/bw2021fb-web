@@ -13,12 +13,14 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
+
     - name: Get latest code
       uses: actions/checkout@2036a08e25fa78bbd946711a407b529a0a1204bf
       # This is version v2.3.2, using SHA-1 to avoid backdoor introduction
 
     # Use GitHub Actions' cache to shorten build times and decrease load on servers
-    - uses: actions/cache@0781355a23dac32fd3bac414512f4b903437991a  # This is version v2.1.3, using SHA-1 to avoid backdoor introduction
+    - name: Retrieving gems from cache
+      uses: actions/cache@0781355a23dac32fd3bac414512f4b903437991a  # This is version v2.1.3, using SHA-1 to avoid backdoor introduction
       with:
         path: vendor/bundle
         key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
@@ -32,12 +34,39 @@ jobs:
         JEKYLL_PAT: dummy_token_ignore
       with:
         build_only: true
+    
+    - name: Show build result
+      run: |
+        pwd
+        ls -lhAF build/
+
+    - name: Preserving built files
+      uses: actions/upload-artifact@v2
+      with:
+        name: web-site
+        path: |
+          build/
+          !build/.nojekyll
+        # helaili/jekyll-action hardcodes the target build dir to "build" instead of "_site"
+        # .nojekyll only useful for Github pages hosting (note: not present when helaili/jekyll-action runs with build_only=true)
 
   web-deploy:
     name: Deploy
     runs-on: ubuntu-latest
     needs: jekyll-build
-    steps:
+    steps:   
+
+    - name: Retrieving built files
+      uses: actions/download-artifact@v2
+      with:
+        name: web-site
+        path: .
+
+    - name: Show build result
+      run: |
+        pwd
+        ls -lhAF
+
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@2a4e9b1312ebeb73a1f72b9330c71831c1e4ce01
       # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
@@ -47,5 +76,3 @@ jobs:
         username: ${{ secrets.TEST_FTP_USER }}
         password: ${{ secrets.TEST_FTP_PASSWORD }}
         server-dir: ${{ secrets.TEST_FTP_TARGETDIR }}
-        local-dir: _site/
-        exclude: .nojekyll  # Only useful for Github pages hosting
