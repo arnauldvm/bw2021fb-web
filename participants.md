@@ -1,6 +1,7 @@
 ---
 title: Participants
 layout: default
+cards: participants_cards
 ---
 {% include kramdown_definitions.md %}
 
@@ -14,7 +15,8 @@ sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit 
 
 <div>
 
-{% for _ in site.participants_cards %}
+{% assign this_collection = site.collections | where: "label", page.cards | first %}
+{% for _ in this_collection.docs %}
 <div>
 <div>
 
