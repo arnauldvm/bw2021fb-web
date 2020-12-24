@@ -1,10 +1,6 @@
 exclude:
 - cSpell.json
 
-kramdown:
-  parse_block_html: true
-  parse_span_html: true
-
 collections:
 - units_cards
 - participants_cards
