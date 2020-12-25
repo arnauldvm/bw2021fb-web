@@ -17,7 +17,7 @@ layout: default
 {{ content }}
         </div>
 
-    {%- assign this_collection_arr = site.collections | where: "label", page.cards | get: site.language %}
+    {%- assign this_collection_arr = site.collections | where: "label", page.cards %}
     {%- for this_collection in this_collection_arr %}
         <br>
         <div class="row">

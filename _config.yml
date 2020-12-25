@@ -16,7 +16,8 @@ defaults:
     layout: page
 
 collections:
-- units_cards
-- participants_cards
+- units
+- participants
 
 language: fr
+collections_dir: fr/cards
