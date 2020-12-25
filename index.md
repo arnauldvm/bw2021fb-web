@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-<!-- Text that must be displayed on home page -->
+{% include_relative {{ site.language | append: "/" | append: page.name }} %}

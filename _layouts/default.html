@@ -1,13 +1,14 @@
 ---
 ---
+{%- assign title = page.titles[site.language] | default: page.title -%}
 <!DOCTYPE html>
 <!-- As per https://getbootstrap.com/docs/4.5/getting-started/introduction/ -->
-<html lang="fr">
+<html lang="{{ site.language }}">
 
 <head>
     {%- include bootstrap_header.html %}
 
-    <title>Fanion Bleu 2021{% if page.title %} > {{ page.title }}{% endif %}</title>
+    <title>Fanion Bleu 2021{% if title %} > {{ title }}{% endif %}</title>
 </head>
 
 <body>

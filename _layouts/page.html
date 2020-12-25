@@ -6,18 +6,18 @@ layout: default
         <nav class="navbar navbar-expand-lg navbar-light bg-light"><ul class="navbar-nav">
         {%- assign pages = site.pages | where:  "layout", "page" | sort: "order" -%}
         {%- for item in pages %}
-            <li class="nav-item {% if item.url == page.url %}active{% endif %}"><a class="nav-link" href=".{{ item.url }}">{{ item.title }}</a></li>
+            <li class="nav-item {% if item.url == page.url %}active{% endif %}"><a class="nav-link" href=".{{ item.url }}">{{ item.titles[site.language] | default: item.title }}</a></li>
             {%- comment -%}Prefixing {{ item.url }} with '.' is just a workaround for Jekyll not using relative URLs. It won't work if we put pages in subdirs.{%- endcomment -%}
         {%- endfor %}
         </ul></nav>
 
-        <h2 class="display-2">{{ page.title }}</h2>
+        <h2 class="display-2">{{ page.titles[site.language] | default: page.title }}</h2>
 
         <div class="card card-body">
 {{ content }}
         </div>
 
-    {%- assign this_collection_arr = site.collections | where: "label", page.cards %}
+    {%- assign this_collection_arr = site.collections | where: "label", page.cards | get: site.language %}
     {%- for this_collection in this_collection_arr %}
         <br>
         <div class="row">
