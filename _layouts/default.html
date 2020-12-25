@@ -14,7 +14,7 @@
 <body>
     <div class="float-right mr-2">
     {%- for redirect in site.redirects -%}{%- if redirect[0] != site.language -%}
-        <a class="btn btn-outline-dark btn-sm" href="{{ redirect[1].base }}">&gt; {{ redirect[1].label }}</a>
+        <a class="btn btn-outline-dark btn-sm" href="{{ redirect[1].base }}{{ page.url }}">&gt; {{ redirect[1].label }}</a>
     {%- endif -%}{%- endfor -%}
     </div>
     <!-- <h1 class="display-1">Fanion Bleu 2021</h1> -->
