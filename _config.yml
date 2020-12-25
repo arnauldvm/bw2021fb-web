@@ -1,5 +1,8 @@
 exclude:
 - cSpell.json
+- README.md
+- fr
+- nl
 
 defaults:
 - scope:
@@ -14,5 +17,16 @@ defaults:
     layout: page
 
 collections:
-- units_cards
-- participants_cards
+- units
+- participants
+
+redirects:
+  fr:
+    label: Français
+    base: http://fanionbleu2021.be
+  nl:
+    label: Nederlands
+    base: http://blauwewimpel2021.be
+
+language: fr
+collections_dir: fr/cards
