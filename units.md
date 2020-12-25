@@ -1,5 +1,7 @@
 ---
-title: Unités scoutes
+titles:
+  fr: Unités scoutes
+  nl: Scout eenheden
 cards: units_cards
 order: 10
 ---

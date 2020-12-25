@@ -1,5 +1,7 @@
 ---
-title: Participants
+titles:
+  fr: Participants
+  nl: Deelnemers
 cards: participants_cards
 order: 20
 ---

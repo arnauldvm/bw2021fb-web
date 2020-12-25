@@ -1,6 +1,7 @@
 exclude:
 - cSpell.json
 - fr
+- nl
 
 defaults:
 - scope:
