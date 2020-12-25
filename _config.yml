@@ -19,5 +19,13 @@ collections:
 - units
 - participants
 
+redirects:
+  fr:
+    label: Français
+    base: http://fanionbleu2021.be
+  nl:
+    label: Nederlands
+    base: http://blauwewimpel2021.be
+
 language: fr
 collections_dir: fr/cards
