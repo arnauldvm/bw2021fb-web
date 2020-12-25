@@ -26,8 +26,11 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
 
-    - name: Create missing work directories
-      run: mkdir .jekyll-cache _site
+    - name: Making sure Jekyll container may write to required files and dirs
+      run: |
+        mkdir .jekyll-cache _site
+        touch Gemfile.lock
+        chmod a+w Gemfile.lock
 
     - name: Jekyll build
       uses: docker://jekyll/jekyll@sha256:de110e0fdde342de0cb6fd5c63f64934b6ce25d0dd826c67113b3a5a3370784e  # This is version 4.2.0, using SHA-256 to avoid backdoor introduction
