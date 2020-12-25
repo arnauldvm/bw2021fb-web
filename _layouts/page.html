@@ -2,6 +2,14 @@
 layout: default
 ---
 <!-- page layout >> -->
+        <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top"><ul class="navbar-nav"> -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light"><ul class="navbar-nav">
+        {%- assign pages = site.pages | where:  "layout", "page" | sort: "order" -%}
+        {%- for item in pages %}
+            <li class="nav-item {% if item.url == page.url %}active{% endif %}"><a class="nav-link" href="{{ item.url }}">{{ item.title }}</a></li>
+        {%- endfor %}
+        </ul></nav>
+
         <h2 class="display-2">{{ page.title }}</h2>
 
         <div class="card card-body">

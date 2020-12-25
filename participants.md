@@ -1,6 +1,7 @@
 ---
 title: Participants
 cards: participants_cards
+order: 20
 ---
 <!-- cspell:disable-->
 Lorem iposum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
