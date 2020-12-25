@@ -26,28 +26,25 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-gems-
 
-    - name: Build with Jekyll
-      uses: helaili/jekyll-action@e5db8e7c31456ee2fecff082a6fb66f2adf8b7c3  # Using SHA-1 to avoid backdoor introduction
-        # Unreleased, this commit is picked on the master, but is the most recent to support build_only parameter!
-      env:
-        JEKYLL_PAT: dummy_token_ignore
+    - name: Create missing work directories
+      run: mkdir .jekyll-cache _site
+
+    - name: Jekyll build
+      uses: docker://jekyll/jekyll@sha256:de110e0fdde342de0cb6fd5c63f64934b6ce25d0dd826c67113b3a5a3370784e  # This is version 4.2.0, using SHA-256 to avoid backdoor introduction
+      # uses: docker://jekyll/builder@sha256:b918b81939a1076dce89d142c0764c2c3cb93858f56ecf4f04ad0387338e77aa  # This is version 4.2.0, using SHA-256 to avoid backdoor introduction
       with:
-        build_only: true
+        args: jekyll build --trace --verbose --config _config.yml,_config.nl.yml
     
     - name: Show build result
       run: |
         pwd
-        ls -lhAF build/
+        ls -lhAF _site/
 
     - name: Preserving built files
       uses: actions/upload-artifact@v2
       with:
         name: web-site
-        path: |
-          build/
-          !build/.nojekyll
-        # helaili/jekyll-action hardcodes the target build dir to "build" instead of "_site"
-        # .nojekyll only useful for Github pages hosting (note: not present when helaili/jekyll-action runs with build_only=true)
+        path: _site/
 
   web-deploy:
     name: Deploy
