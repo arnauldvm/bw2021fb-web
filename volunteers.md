@@ -1,5 +1,6 @@
 ---
 title: Bénévoles
+order: 30
 ---
 <!-- cspell:disable-->
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
