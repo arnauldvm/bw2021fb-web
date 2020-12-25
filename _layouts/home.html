@@ -2,5 +2,12 @@
 layout: default
 ---
 <!-- home layout >> -->
+<div class="row">
+{%- assign pages = site.pages | where:  "layout", "page" | sort: "order" -%}
+{%- for item in pages %}
+    <div class="col-lg-4"><a href="{{ item.url }}" role="button" class="btn btn-primary btn-lg btn-block">{{ item.title }}</a></div>
+{%- endfor %}
+</div>
+
 {{ content }}
 <!-- << home layout -->
