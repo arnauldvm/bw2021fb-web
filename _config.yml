@@ -1,5 +1,6 @@
 exclude:
 - cSpell.json
+- README.md
 - fr
 - nl
 
