@@ -6,7 +6,7 @@ layout: default
 {%- assign pages = site.pages | where:  "layout", "page" | sort: "order" -%}
 {%- for item in pages %}
     <div class="col-lg-4"><a href=".{{ item.url | relative_url }}" role="button" class="btn btn-primary btn-lg btn-block">{{ item.title }}</a></div>
-    {%- comment -%}Prefixing {{ item.url }} with '.' is just a workaround for Jekyll not using relative URLs. It won't work if we put pages in subdirs.{%- endcomment -%}}
+    {%- comment -%}Prefixing {{ item.url }} with '.' is just a workaround for Jekyll not using relative URLs. It won't work if we put pages in subdirs.{%- endcomment -%}
 {%- endfor %}
 </div>
 
