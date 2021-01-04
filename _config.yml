@@ -1,0 +1,32 @@
+exclude:
+- cSpell.json
+- README.md
+- fr
+- nl
+
+defaults:
+- scope:
+    path: index.html
+    type: pages
+  values:
+    layout: home
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: page
+
+collections:
+- units
+- participants
+
+redirects:
+  fr:
+    label: Français
+    base: http://fanionbleu2021.be
+  nl:
+    label: Nederlands
+    base: http://blauwewimpel2021.be
+
+language: fr
+collections_dir: fr/cards
