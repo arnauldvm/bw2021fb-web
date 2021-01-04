@@ -17,6 +17,7 @@ Use following option:
 
 - Source files from Sharepoint folder [Communication](https://seascouts.sharepoint.com/:f:/s/blauwewimpel2021fanionbleu/EoDLI-jymd5OrO7wMPCSqpwBUBjVH3HnlEkCJy7XxGUSBw?e=92no6G)
 - Stored in [`_sources`](./_sources)
+- Markdown conversion and images extraction by <https://products.aspose.app/words/conversion/word-to-md>
 
 ## French
 
