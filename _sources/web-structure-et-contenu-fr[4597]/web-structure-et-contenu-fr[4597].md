@@ -19,7 +19,7 @@
 ## Contenu
 ### LE FANION BLEU
 #### *Histoire*
-![Bwmast.jpg](web-structure-et-contenu-fr.001.jpeg)
+![Bwmast.jpg](web-structure-et-contenu-fr%5B4597%5D.001.jpeg)
 
 Le Fanion Bleu a été créé au 19ème siècle, lorsque les mers du monde ont été sillonnées par d’immenses voiliers. Pour les grandes compagnies maritimes, les règles « le temps, c’est de l’argent » et « le temps est essentiel » étaient déjà en place. Les compagnies maritimes anglaises tentaient de faire la traversée vers New York (Ambrose lightship) avec leurs voiliers et leurs navires à passagers dans les plus brefs délais à partir de Bishop’s Rock (Irlande du Sud). Le Fanion Bleu, en service depuis 1860, est un prix décerné à un bateau lorsqu’il a établi un nouveau record de vitesse outre-Atlantique. Bien sûr, le Fanion Bleu était d’une grande importance pour les compagnies maritimes transatlantiques. Posséder ce trophée a donné prestige et avantage à la fois pour la compagnie maritime et pour la nation. Il y avait une forte concurrence, surtout entre la Grande-Bretagne, l’Allemagne et la France plus tard. Bien que la plupart des entreprises aient affirmé que la sécurité était la chose la plus importante et que la vitesse n’était que secondaire, elles n’ont pas caché la victoire du Fanion bleu. Les navires nommés « navire le plus rapide » étaient presque toujours complets.
 
@@ -29,7 +29,7 @@ Le Fanion Bleu est normalement organisé tous les 2 ans. C’est ce que font à 
 
 C’est une compétition nationale pour toutes les fédérations scoutes belges : FOS Open Scouting, Scouts en Gidsen Vlaanderen, Scouts et Guides Pluralistes de Belgique et Les Scouts. En outre, le Corps Royal des Cadets de Marine et certaines unités étrangères (principalement des Pays-Bas) sont invités à cette compétition amicale.
 #### *Éditions précédentes*
-![Logo-Blauwe-wimpel-RGB.jpg](web-structure-et-contenu-fr.002.jpeg)
+![Logo-Blauwe-wimpel-RGB.jpg](web-structure-et-contenu-fr%5B4597%5D.002.jpeg)
 
 2019 Bruges - 11de & 22de FOS De Boekaniers
 
@@ -231,6 +231,33 @@ Chez Les Scouts
 - A Anhée, la 40ème Sea-Scouts Aduatiques “Namur-Meuse”
 - A Court-Saint-Etienne, la 10ème Brabant Wallon possède une troupe de scouts marins
 
+En Flandres, il y a des scouts marins dans différentes villes. Deux fédérations proposent le scoutisme marin, FOS Open Scouting et Scouts et Gidsen Vlaanderen.
+
+Chez FOS Open Scouting :
+
+- A Antwerpen, de 1ste FOS « Lange Wapper »
+- A Oostende, de 2de FOS « Westhinder »
+- A Drongen (Gent), de 3de FOS « De Wilde Eend »
+- A Sint-Niklaas (Waasland), 7de FOS « Mercator »
+- A Nieuwpoort, de 8ste FOS « ’t Vloedgat”
+- A Blankenberge, de 9de FOS « De Wandelaar »
+- A Brugge, de 11de FOS “De Boekaniers”
+- A De Panne, de 15de FOS « ‘t Kraaienest »
+- A Zandvliet (Antwerpen), de 80ste FOS “Kludde”
+- A Brussel, de140ste FOS “Roodbaard” 
+
+Chez Scouts en Gidsen Vlaanderen :
+
+- A Antwerpen, de 1ste zeescouts « Georges De Hasque »
+- A Antwerpen, de 2de zeescouts « Corneel Mayné »
+- A Antwerpen, de 9de zeescouts « Sus Antigoon »
+- A Antwerpen, de 13de zeescouts « Sint-Joris »
+- A Turnhout,  zeescouting « Toxandria »
+- A Ophoven, zeescouting « De Pebbles »
+- A Harelbeke, zeescouts « Jan-Bart »
+- A Brugge, zeescouts « Sint-leo »
+- A Zeebrugge, zeescouts « Stella-Maris »
+- A Oostende, zeescouts « De Schorre »
 
 ### FAQ
 - *Mon unité est préinscrite ; que devient la caution versée en cas d’annulation de l’événement pour raisons sanitaires ?* En cas d’annulation du Fanion Bleu 2021 pour raisons sanitaires, les cautions versées seront intégralement restituées aux unités qui étaient préinscrites.
