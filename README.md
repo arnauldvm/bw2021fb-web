@@ -23,4 +23,4 @@ Use following option:
 
 Based on:
 
-- [Communication > web-structure-et-contenu-fr.docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EVSSERskp-tPlrUmJo0tWx4BG62ERV77dNdWmsz6Pa35qA?e=bgq1cM).
+- [Communication > web-structure-et-contenu-fr[4597].docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EeaekWerTqBIpvWAXUqkKFsBZBmXYOd5K85xTP7XThGWPQ?e=B3kddg).
