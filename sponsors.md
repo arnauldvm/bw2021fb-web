@@ -1,5 +1,5 @@
 ---
 title: Sponsors
-order: 40
+order: 220
 ---
 {% include_relative {{ site.language | append: "/" | append: page.name }} %}
