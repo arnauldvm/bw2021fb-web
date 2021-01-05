@@ -22,6 +22,7 @@ a[role="button"] {
     margin-bottom: 10px !important;
     padding: 40px !important;
     font-size: 32px !important;
+    opacity: 75% !important;
 }
 blockquote {
     padding: 10px 0px 5px 20px;
