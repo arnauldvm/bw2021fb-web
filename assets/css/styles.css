@@ -17,6 +17,9 @@ body {
 .display-1 img { 
     width: 80%;
 }
+h2 {
+    background-color: #FFFFFF66;
+}
 a[role="button"] {
     margin-top: 10px !important;
     margin-bottom: 10px !important;
