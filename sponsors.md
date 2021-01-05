@@ -1,5 +1,6 @@
 ---
 title: Sponsors
-order: 40
+cards: sponsors
+order: 210
 ---
 {% include_relative {{ site.language | append: "/" | append: page.name }} %}

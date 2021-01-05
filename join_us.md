@@ -1,8 +1,8 @@
 ---
 titles:
-  fr: Unités scoutes
-  nl: Scout eenheden
-cards: units
-order: 110
+  fr: Devenir scout marin
+  nl: Zeescout worden
+cards: join_us
+order: 320
 ---
 {% include_relative {{ site.language | append: "/" | append: page.name }} %}

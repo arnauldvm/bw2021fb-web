@@ -17,8 +17,11 @@ defaults:
     layout: page
 
 collections:
+- history
 - units
 - participants
+- sponsors
+- join_us
 
 redirects:
   fr:

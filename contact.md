@@ -1,8 +1,7 @@
 ---
 titles:
-  fr: Unités scoutes
-  nl: Scout eenheden
-cards: units
-order: 110
+  fr: Contact
+  nl: Contact
+order: 330
 ---
 {% include_relative {{ site.language | append: "/" | append: page.name }} %}

@@ -1,6 +1,20 @@
-<!-- cspell:disable-->
-Lorem iposum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<!-- cspell:enable-->
+Le Fanion Bleu est avant tout un grand jeu à poste où chaque équipe a la possibilité de gagner des points
+grâce à la valorisation de ses compétences diverses, dans tous les aspects du scoutisme marin.
+
+Lors du Fanion Bleu, l’esprit d’équipe est prépondérant.
+
+Pour pouvoir participer au Fanion Bleu 2021,
+il faut faire partie d’une équipe d’au moins 6 participants et au maximum 8 participants d’une même tranche d’âge. 
+
+Les tranches d’âge sont : 
+
+- de 10 à 12 ans (né en 2011, 2010, 2009) 
+- de 13 à 15 ans (né en 2008, 2007, 2006) 
+- de 16 à 18 ans (né en 2005, 2004, 2003)
+
+#### Infos pratiques
+
+Chaque équipe sera inscrite sous le nom d’un animal.
+Les participants sont inscrits via leur unité, aucune inscription individuelle n’est prévue.
+
+<mark>...</mark>
