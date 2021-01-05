@@ -1,6 +1,11 @@
-<!-- cspell:disable-->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<!-- cspell:enable-->
+Le Fanion Bleu 2021 est organisé par FOS Open Scouting, Scouts en Gidsen Vlaanderen,
+les Scouts et Guides Pluralistes, en collaboration avec la Marine. 
+
+Si vous désirez devenir scout marin, veuillez prendre contact directement avec une unité près de chez vous.
+
+- **Contact général : <a>info@fanionbleu2021.be</a>{: .btn .btn-primary}**
+
+- Contact inscriptions : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
+- Contact sponsoring : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
+- Contact presse : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
+- Contact bénévoles : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
