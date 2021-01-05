@@ -1,6 +1,8 @@
-<!-- cspell:disable-->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<!-- cspell:enable-->
+L’organisation du Fanion Bleu requiert de nombreux collaborateurs.
+Il est possible de se proposer comme bénévole au Fanion Bleu même si on n’est pas animateur
+dans l’une des unités participantes mais il faut être affilié à l’une des fédérations participantes.
+
+Le grand jeu du samedi comporte de nombreux postes “clé sur porte” qui doivent être animés par des équipes bilingues.
+Un briefing est prévu le vendredi soir à leur intention.
+
+Pour se porter candidat bénévole au Fanion Bleu 2021, remplissez le <mark>formulaire d’inscription comme bénévole</mark>.

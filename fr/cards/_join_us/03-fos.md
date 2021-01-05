@@ -1,0 +1,13 @@
+---
+title: Chez FOS Open Scouting
+---
+- À Anvers, de 1s<sup>te</sup> FOS “Lange Wapper”
+- À Ostende, de 2<sup>de</sup> FOS “Westhinder”
+- À Tronchiennes (Gand), de 3<sup>de</sup> FOS “De Wilde Eend”
+- À Saint-Nicolas (Waasland), 7<sup>de</sup> FOS “Mercator”
+- À Nieuport, de 8s<sup>te</sup> FOS “’t Vloedgat”
+- À Blankenberghe, de 9<sup>de</sup> FOS “De Wandelaar”
+- À Bruges, de 11<sup>de</sup> FOS “De Boekaniers”
+- À La Panne, de 15<sup>de</sup> FOS “‘t Kraaienest”
+- À Zandvliet (Anvers), de 80<sup>ste</sup> FOS “Kludde”
+- À Bruxelles, de 140<sup>ste</sup> FOS “Roodbaard”

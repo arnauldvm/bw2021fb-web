@@ -2,6 +2,6 @@
 titles:
   fr: Médias
   nl: Media
-order: 50
+order: 230
 ---
 {% include_relative {{ site.language | append: "/" | append: page.name }} %}

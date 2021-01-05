@@ -1,0 +1,13 @@
+---
+title: Chez Scouts en Gidsen Vlaanderen
+---
+- À Anvers, de 1<sup>ste</sup> zeescouts “Georges De Hasque”
+- À Anvers, de 2<sup>de</sup> zeescouts “Corneel Mayné”
+- À Anvers, de 9<sup>de</sup> zeescouts “Sus Antigoon”
+- À Anvers, de 13<sup>de</sup> zeescouts “Sint-Joris”
+- À Turnhout, zeescouting “Toxandria”
+- À Ophoven, zeescouting “De Pebbles”
+- À Harelbeke, zeescouts “Jan-Bart”
+- À Bruges, zeescouts “Sint-leo”
+- À Zeebruges, zeescouts “Stella-Maris”
+- À Ostende, zeescouts “De Schorre”
