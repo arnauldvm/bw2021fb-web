@@ -9,13 +9,9 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
-.display-1 { 
+.bw2021fb_head { 
     text-align: center;
-    margin-top: 10px !important;
-    margin-bottom: 40px;
-}
-.display-1 img { 
-    width: 80%;
+    margin: 10px auto !important;
 }
 h2 {
     margin-top: 10px;
