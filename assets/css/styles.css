@@ -20,6 +20,9 @@ body {
 h2 {
     background-color: #FFFFFF66;
 }
+.row .card {
+    background-color: #CCEEFFBB;
+}
 a[role="button"] {
     margin-top: 10px !important;
     margin-bottom: 10px !important;
