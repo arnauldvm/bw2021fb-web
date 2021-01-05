@@ -3,13 +3,19 @@ layout: default
 ---
 <!-- page layout >> -->
         <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top"><ul class="navbar-nav"> -->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light"><ul class="navbar-nav">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        {% comment %} See https://tutowebdesign.com/creer-des-menus-de-navigation-avec-bootstrap-4.php > Barre de navigation Responsive {% endcomment %}
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">           
         {%- assign pages = site.pages | where:  "layout", "page" | sort: "order" -%}
         {%- for item in pages %}
             <li class="nav-item {% if item.url == page.url %}active{% endif %}"><a class="nav-link" href=".{{ item.url }}">{{ item.titles[site.language] | default: item.title }}</a></li>
             {%- comment -%}Prefixing {{ item.url }} with '.' is just a workaround for Jekyll not using relative URLs. It won't work if we put pages in subdirs.{%- endcomment -%}
         {%- endfor %}
-        </ul></nav>
+        </ul></div></nav>
 
         <h2 class="display-4">{{ page.titles[site.language] | default: page.title }}</h2>
 
