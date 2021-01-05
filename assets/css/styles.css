@@ -28,3 +28,6 @@ blockquote {
     border-left: 1px solid darkblue;
     background-color: #FFFFFF33;
 }
+mark {
+    background-color: yellow;
+}
