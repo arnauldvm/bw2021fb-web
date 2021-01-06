@@ -49,7 +49,7 @@ jobs:
     - name: Preserving built files
       uses: actions/upload-artifact@v2
       with:
-        name: web-site/TEST/${{ matrix.language }}
+        name: web-site[TEST][${{ matrix.language }}]
         path: _site/
 
   web-deploy:
@@ -64,7 +64,7 @@ jobs:
     - name: Retrieving built files
       uses: actions/download-artifact@v2
       with:
-        name: web-site/TEST/${{ matrix.language }}
+        name: web-site[TEST][${{ matrix.language }}]
         path: .
 
     - name: Show build result
