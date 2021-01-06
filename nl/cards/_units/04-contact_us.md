@@ -1,4 +1,4 @@
 ---
 title: Aanraak ons
 ---
-<a>inschrijvingen@blauwewimpel2021.be</a>{: .btn .btn-primary}
+{% include email.liquid email='inschrijvingen@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>

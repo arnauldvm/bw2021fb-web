@@ -3,9 +3,9 @@ les Scouts et Guides Pluralistes, en collaboration avec la Marine.
 
 Si vous désirez devenir scout marin, veuillez prendre contact directement avec une unité près de chez vous.
 
-- **Contact général : <a>info@fanionbleu2021.be</a>{: .btn .btn-primary}**
+- **Contact général : {% include email.liquid email='info@fanionbleu2021.be' %}**
 
-- Contact inscriptions : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
-- Contact sponsoring : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
-- Contact presse : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
-- Contact bénévoles : <a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
+- Contact inscriptions : {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- Contact sponsoring : {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- Contact presse : {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- Contact bénévoles : {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
