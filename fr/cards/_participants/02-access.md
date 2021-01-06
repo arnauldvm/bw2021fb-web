@@ -3,7 +3,7 @@ title: Adresse et accès
 ---
 <div markdown="1">
 
-<a href="https://goo.gl/maps/E5CTckCsxHPpXpse6" targte="_blank"><i class="fa fa-map fa-5x"></i></a>
+<a href="https://goo.gl/maps/E5CTckCsxHPpXpse6" target="_blank"><i class="fa fa-map fa-5x"></i></a>
 {: .col-3}
 
 > Base de la Marine
