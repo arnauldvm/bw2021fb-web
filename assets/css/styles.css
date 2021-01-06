@@ -9,6 +9,9 @@ body {
     background-size: cover;
     -o-background-size: cover;
 }
+._language {
+    background-color: #CCEEFF66;  
+}
 .bw2021fb_head { 
     text-align: center;
     margin: 10px auto !important;
