@@ -1,20 +1,12 @@
 ---
 title: Sponsors
 ---
-<mark>TOOD: dynamic integration of all logos & texts sponsors</mark>
+{% for image in site.static_files %}{% if image.path contains 'assets/images/sponsors' %}![{{ image.path }}](.{{ image.path }}){: .col .col-sm-6 .col-md-4}{% endif %}{% endfor %}
 
-```text
-Emplacement pour logo main sponsors sur tout le site
-  et dans la page sponsor
+<mark>Emplacement pour logo main sponsors sur tout le site
+  et dans la page sponsor</mark>
 
-Emplacement pour logo sponsor
+<mark>Emplacement pour logo sponsor</mark>
 
-Emplacement pour sympathisant (texte)
+<mark>Emplacement pour sympathisant (texte)</mark>
 ```
-
-<!--
-Rmque Avdm: soit on les met plus tard soit tu peux mettre le logo de la marine en main sponsor et Point be
-(<http://laurentjans.be/assets/img/point-be-internet-solutions-provider.png>) et JJLooze (<http://laurentjans.be/assets/img/shop-cafes-jj-looze.jpg>)
-
-Vraiment comme tu veux
--->

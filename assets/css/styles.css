@@ -37,6 +37,9 @@ blockquote {
     border-left: 1px solid darkblue;
     background-color: #FFFFFF33;
 }
+.sponsor_logo {
+    max-width: fit-content;
+}
 mark {
     background-color: yellow;
 }

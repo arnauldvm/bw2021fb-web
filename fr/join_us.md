@@ -14,5 +14,5 @@ Deux fédérations proposent du scoutisme marin, les Scouts et Guides Pluraliste
 
 <mark>Liste des unités de scouts marins (mettre lien vers site)</mark>
 
-En Flandre<mark>s</mark>, il y a des scouts marins dans différentes villes.
+En Flandre, il y a des scouts marins dans différentes villes.
 Deux fédérations proposent le scoutisme marin, FOS Open Scouting et Scouts et Gidsen Vlaanderen.
