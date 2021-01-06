@@ -15,5 +15,5 @@ Votre inscription ne sera prise en compte qu’après réception du formulaire e
 
 L’inscription des participants s'ouvrira le <mark>XX XXXXX 2021</mark> et se clôturera le <mark>XX XXXXX 2021</mark>.
 
-<a>Télécharger le template</a>{: .btn .btn-primary}
+{% include download.liquid text='Télécharger le template' %}
 <mark>(Fichier modèle à fournir)</mark>

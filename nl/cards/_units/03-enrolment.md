@@ -1,4 +1,5 @@
 ---
 title: Inschrijving van deelnemers
 ---
-<a>Modelvorm downloaden</a>{: .btn .btn-primary}
+{% include download.liquid text='Modelvorm downloaden' %}
+<mark>(Fichier modèle à fournir)</mark>
