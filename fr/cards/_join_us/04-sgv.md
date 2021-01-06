@@ -1,13 +1,13 @@
 ---
 title: Chez Scouts en Gidsen Vlaanderen
 ---
-- À Anvers, de 1<sup>ste</sup> zeescouts “Georges De Hasque”
-- À Anvers, de 2<sup>de</sup> zeescouts “Corneel Mayné”
-- À Anvers, de 9<sup>de</sup> zeescouts “Sus Antigoon”
-- À Anvers, de 13<sup>de</sup> zeescouts “Sint-Joris”
-- À Turnhout, zeescouting “Toxandria”
-- À Ophoven, zeescouting “De Pebbles”
-- À Harelbeke, zeescouts “Jan-Bart”
-- À Bruges, zeescouts “Sint-leo”
-- À Zeebruges, zeescouts “Stella-Maris”
-- À Ostende, zeescouts “De Schorre”
+- À Anvers, [de 1<sup>ste</sup> zeescouts “Georges De Hasque”](https://www.zeescouts1.be){:target="_blank"}
+- À Anvers, [de 2<sup>de</sup> zeescouts “Corneel Mayné”](https://zeescouts2.be){:target="_blank"}
+- À Anvers, [de 9<sup>de</sup> zeescouts “Sus Antigoon”](https://www.zeescouts9.com){:target="_blank"}
+- À Anvers, [de 13<sup>de</sup> zeescouts “Sint-Joris”](https://zeescouts13.be){:target="_blank"}
+- À Turnhout, [zeescouting “Toxandria”](https://zeescoutstoxandria.be){:target="_blank"}
+- À Ophoven, [zeescouting “De Pebbles”](https://www.zeescoutingpebbles.be){:target="_blank"}
+- À Harelbeke, [zeescouts “Jan-Bart”](http://zeescoutsjanbart.be){:target="_blank"}
+- À Bruges, [zeescouts “Sint-Leo”](http://www.zeescouts.sintleo.be/zeescouts){:target="_blank"}
+- À Zeebruges, [zeescouts “Stella-Maris”](https://zeescoutszeebrugge.be){:target="_blank"}
+- À Ostende, [zeescouts “De Schorre”](https://zeescoutsdeschorre.be){:target="_blank"}

@@ -1,5 +1,5 @@
 ![Bwmast.jpg](assets/images/Bwmast.jpg){: .float-left .mr-4 .mb-2}
-Le Fanion Bleu a été créé au 19ème siècle, lorsque les mers du monde ont été sillonnées par d’immenses voiliers.
+Le Fanion Bleu a été créé au 19<sup>ème</sup> siècle, lorsque les mers du monde ont été sillonnées par d’immenses voiliers.
 Pour les grandes compagnies maritimes, les règles « le temps, c’est de l’argent » et « le temps est essentiel » étaient déjà en place.
 Les compagnies maritimes anglaises tentaient de faire la traversée vers New York (Ambrose lightship)
 avec leurs voiliers et leurs navires à passagers dans les plus brefs délais à partir de Bishop’s Rock (Irlande du Sud).
