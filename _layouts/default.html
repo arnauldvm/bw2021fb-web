@@ -14,7 +14,7 @@
 <body>
     <div class="_language float-right mr-2">
     {%- for redirect in site.redirects -%}{%- if redirect[0] != site.language -%}
-        <a class="btn btn-outline-primary btn-sm" href="{{ redirect[1].base[jekyll.environment] }}{{ page.url }}">&gt; {{ redirect[1].label }}</a>
+        <a class="btn btn-outline-primary btn-sm" href="{{ redirect[1].base[jekyll.environment] }}{{ page.url }}"><i class="fa fa-fw fa-chevron-circle-right"></i> {{ redirect[1].label }}</a>
     {%- endif -%}{%- endfor -%}
     </div>
     <div class="container">
