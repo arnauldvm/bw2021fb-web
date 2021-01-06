@@ -31,9 +31,17 @@ h2.border {
 a[role="button"] {
     margin-top: 10px !important;
     margin-bottom: 10px !important;
-    padding: 40px !important;
+    padding-top: 0.5em !important;
+    padding-bottom: 0.5em !important;
     font-size: 32px !important;
     opacity: 75% !important;
+}
+/* @include media-breakpoint-up(sm) { */
+@media (min-width: 576px) {
+    a[role="button"] {
+        padding-top: 1em !important;
+        padding-bottom: 1em !important;
+    }
 }
 blockquote {
     padding: 10px 0px 5px 20px;
