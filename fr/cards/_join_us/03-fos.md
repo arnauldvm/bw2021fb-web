@@ -3,9 +3,9 @@ title: Chez FOS Open Scouting
 ---
 - À Anvers, de [1<sup>ste</sup> FOS “Lange Wapper”](http://www.langewapper.be){:target="_blank"}
 - À Ostende, de [2<sup>de</sup> FOS “Westhinder”](http://www.seascouts.be){:target="_blank"}
-- À Tronchiennes (Gand), de [3<sup>de</sup> FOS “De Wilde Eend”](http://www.de-wilde-eend.be){:target="_blank"}
+- À Tronchiennes (Gand), de [3<sup>de</sup> FOS “De Wilde Eend”](https://dewildeeend.be){:target="_blank"}
 - À Saint-Nicolas (Waasland), [7<sup>de</sup> FOS “Mercator”](http://www.seascoutsmercator.be){:target="_blank"}
-- À Nieuport, de [8<sup>ste</sup> FOS “’t Vloedgat”](http://wwww.achtste.be){:target="_blank"}
+- À Nieuport, de [8<sup>ste</sup> FOS “’t Vloedgat”](https://seascouts-nieuwpoort.be){:target="_blank"}
 - À Blankenberghe, de [9<sup>de</sup> FOS “De Wandelaar”](http://www.9fos-wandelaar.be){:target="_blank"}
 - À Bruges, de [11<sup>de</sup> FOS “De Boekaniers”](http://www.deboekaniers.be){:target="_blank"}
 - À La Panne, de [15<sup>de</sup> FOS “‘t Kraaienest”](http://www.scoutsdepanne.be){:target="_blank"}

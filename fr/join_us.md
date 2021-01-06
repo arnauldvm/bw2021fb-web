@@ -12,7 +12,5 @@ Selon les unités, les enfants peuvent s’inscrire parfois dès l’âge de 5 a
 En Belgique francophone, il existe des scouts marins dans différentes villes.
 Deux fédérations proposent du scoutisme marin, les Scouts et Guides Pluralistes et Les Scouts.
 
-<mark>Liste des unités de scouts marins (mettre lien vers site)</mark>
-
 En Flandre, il y a des scouts marins dans différentes villes.
 Deux fédérations proposent le scoutisme marin, FOS Open Scouting et Scouts et Gidsen Vlaanderen.

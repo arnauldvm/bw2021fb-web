@@ -2,7 +2,7 @@
 title: Inscription des participants
 ---
 L’inscription définitive des participants se fait en renvoyant le document ci-dessous complété à l’adresse :
-<a>XXXXXX@fanionbleu2021.be</a>{: .btn .btn-primary} <mark>(mailbox à créer)</mark>
+{% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
 
 Merci de mentionner l’heure approximative et la date d’arrivée dans le mail et le fichier.
 
