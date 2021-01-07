@@ -16,6 +16,21 @@ body {
     text-align: center;
     margin: 10px auto !important;
 }
+.border-bw2021fb {
+    border-color: #4f81bd !important;
+}
+.bg-bw2021fb {
+    background-color: #4f81bd !important;
+}
+.btn-bw2021fb {
+    background-color: #4f81bd;
+}
+.btn-bw2021fb:hover {
+    background-color: #0069d9;
+}
+.text-bw2021fb {
+    color: #4f81bd !important;
+}
 h2 {
     margin-top: 10px;
     padding: 0 0.1em 0.1em;
@@ -24,6 +39,9 @@ h2 {
 }
 h2.border {
     border-width: 2px !important;
+}
+.card-body {
+    background-color: #EEFD;
 }
 .row .card {
     background-color: #CCEEFFBB;
