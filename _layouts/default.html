@@ -8,7 +8,7 @@
 <head>
     {%- include bootstrap_header.html %}
 
-    <title>Fanion Bleu 2021{% if title %} > {{ title }}{% endif %}</title>
+    <title>{{ site.title }}{% if title %} > {{ title }}{% endif %}</title>
 </head>
 
 <body>
@@ -25,7 +25,7 @@
     {% else %}
         src="assets/images/bwfb2021-logo-large-blue.png"
     {% endif %}
-        alt="Fanion Bleu 2021"
+        alt="{{ site.title }}"
     ></a></div>
 
 {{ content }}
