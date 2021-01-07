@@ -1,5 +1,5 @@
 ---
-title: Aux SGP
+title: Chez les Scouts et Guides Pluralistes
 ---
 - À Jambes, la [23<sup>ème</sup> Sea-Scouts et Sea-Guides “Sambre et Meuse”](http://www.seascouts23.be){:target="_blank"}
 - À Couvin, la [24<sup>ème</sup> Sea-Scouts et Sea-Guides “Cunihan”](http://facebook.com/uniteseascouts.decouvin/){:target="_blank"}
