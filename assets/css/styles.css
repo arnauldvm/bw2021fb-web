@@ -40,6 +40,9 @@ h2 {
 h2.border {
     border-width: 2px !important;
 }
+.card-body {
+    background-color: #EEFD;
+}
 .row .card {
     background-color: #CCEEFFBB;
 }
