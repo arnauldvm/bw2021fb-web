@@ -1,0 +1,4 @@
+---
+title: Sponsors
+---
+{% for image in site.static_files %}{% if image.path contains 'assets/images/sponsors' %}![{{ image.path }}](.{{ image.path }}){: .col .col-sm-6 .col-md-4}{% endif %}{% endfor %}

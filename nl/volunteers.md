@@ -1,6 +1,8 @@
-<!-- cspell:disable-->
-Cat ipsum dolor sit amet, sphynx. Bobcat scottish fold. Russian blue russian blue norwegian forest and maine coon leopard lynx yet abyssinian.
-Turkish angora norwegian forest yet balinese cornish rex jaguar. Singapura singapura yet turkish angora devonshire rex persian.
-Ocelot. Bobcat cornish rex russian blue, cheetah. Singapura persian. Abyssinian. Puma. Himalayan ocelot but burmese munchkin,
-british shorthair for mouser. Egyptian mau grimalkin american bobtail, birman but kitty cheetah.
-<!-- cspell:enable-->
+De organisatie van de Blauwe Wimpel vereist veel medewerkers.
+Het is mogelijk om vrijwilligerswerk te doen bij de Blauwe Wimpel,
+zelfs als je geen leider bent in een van de deelnemende eenheden, maar je moet lid zijn bij één van de deelnemende federaties.
+
+De grote zaterdagwedstrijd bevat veel "kant-en-klare" posities die moeten worden beheerd door tweetalige teams.
+Voor hen staat op vrijdagavond een briefing gepland.
+
+Om je als vrijwilliger in te schijven voor de Blauwe Wimpel 2021, vul je het registratieformulier in als vrijwilliger.
