@@ -18,7 +18,7 @@ layout: default
 
         <h2 class="display-4 border border-bw2021fb text-bw2021fb rounded-lg">{{ page.titles[site.language] | default: page.title }}</h2>
 
-        <div class="card card-body">
+        <div class="card card-body mb-2">
 {{ content }}
         </div>
 
@@ -27,7 +27,7 @@ layout: default
         <br>
         <div class="row">
         {%- for _ in this_collection.docs %}
-        <div class="col-sm-6"><div class="card text-dark mb-4 card-body">
+        <div class="col-sm-6"><div class="card text-dark mt-2 mb-2 card-body">
             <h3 class="card-title">{{ _.title }}</h3>
             <div class="card-text">
 {{ _.content }}
