@@ -9,4 +9,3 @@ title: Sponsors
 <mark>Emplacement pour logo sponsor</mark>
 
 <mark>Emplacement pour sympathisant (texte)</mark>
-```
