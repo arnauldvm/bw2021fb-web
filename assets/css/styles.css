@@ -73,6 +73,18 @@ blockquote {
 mark {
     background-color: yellow;
 }
+.sz-5x {
+    font-size: 5em;
+}
+.sz-4x {
+    font-size: 4em;
+}
+.sz-3x {
+    font-size: 3em;
+}
+.sz-1x {
+    font-size: 2em;
+}
 
 /* Responsive typography */
 /* Note: we hardcoded the media queries to avoid having to use sccs and mixins */
