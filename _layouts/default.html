@@ -8,17 +8,19 @@
 <head>
     {%- include bootstrap_header.html %}
 
-    <title>{{ site.title }}{% if title %} > {{ title }}{% endif %}</title>
+    <title>{{ site.title }}
+        {% if jekyll.environment != "PROD" %} ({{ jekyll.environment }}){% endif %}
+        {% if title %} > {{ title }}{% endif %}
+    </title>
 </head>
 
 <body>
     <div class="_language float-right mr-2">
     {%- for redirect in site.redirects -%}{%- if redirect[0] != site.language -%}
-        <a class="btn btn-outline-primary btn-sm" href="{{ redirect[1].base[jekyll.environment] }}{{ page.url }}"><i class="fa fa-fw fa-chevron-circle-right"></i> {{ redirect[1].label }}</a>
+        <a class="btn btn-outline-primary btn-sm bi-forward-fill text-nowrap" href="{{ redirect[1].base[jekyll.environment] }}{{ page.url }}"> {{ redirect[1].label }}</a>
     {%- endif -%}{%- endfor -%}
     </div>
     <div class="container">
-    <!-- <h1 class="display-1">Fanion Bleu 2021</h1> -->
     <div class="bw2021fb_head"><a href="./"><img class="img-fluid"
     {% if title %}
         src="assets/images/slim_logo.png"
