@@ -85,6 +85,9 @@ mark {
 .sz-1x {
     font-size: 2em;
 }
+[class^="bi-"]::before, [class*=" bi-"]::before {
+    vertical-align: middle;
+}
 
 /* Responsive typography */
 /* Note: we hardcoded the media queries to avoid having to use sccs and mixins */
