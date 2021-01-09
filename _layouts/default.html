@@ -34,7 +34,7 @@
 
     <div class="row justify-content-around">
         {% for image in site.static_files %}{% if image.path contains 'assets/images/federations' %}
-        <div class="col-1"><img class="img-fluid img-thumbnail" src=".{{ image.path }}"></div>
+        <div class="col-3 col-md-2 col-lg-1"><img class="img-fluid img-thumbnail" src=".{{ image.path }}"></div>
         {% endif %}{% endfor %}
         <!-- <div class="col-sm-6 col-lg-4"><a href="./nl/" role="button" class="btn btn-primary btn-bw2021fb btn-lg btn-block">Nederlands</a></div> -->
     </div>
