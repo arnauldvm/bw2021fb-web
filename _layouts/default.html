@@ -8,7 +8,10 @@
 <head>
     {%- include bootstrap_header.html %}
 
-    <title>{{ site.title }}{% if title %} > {{ title }}{% endif %}</title>
+    <title>{{ site.title }}
+        {% if jekyll.environment != "PROD" %} ({{ jekyll.environment }}){% endif %}
+        {% if title %} > {{ title }}{% endif %}
+    </title>
 </head>
 
 <body>
