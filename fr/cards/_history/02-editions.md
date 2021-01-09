@@ -17,4 +17,4 @@ title: Éditions précédentes
 
 D’après <https://wiki.fos.be/foswiki/Blauwe_Wimpel>
 
-![Logo-Blauwe-wimpel-RGB.png](assets/images/Logo-Blauwe-wimpel-RGB.png){: .float-right}
+![Logo-Blauwe-wimpel-RGB.png](assets/images/Logo-Blauwe-wimpel-RGB.png){: .float-right .img-fluid .col-4}
