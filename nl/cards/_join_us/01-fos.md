@@ -1,0 +1,13 @@
+---
+title: Bij FOS Open Scouting
+---
+- Te Antwerpen, de [1<sup>ste</sup> FOS “Lange Wapper”](http://www.langewapper.be){:target="_blank"}
+- Te Blankenberge, de [9<sup>de</sup> FOS “De Wandelaar”](http://www.9fos-wandelaar.be){:target="_blank"}
+- Te Brugge, de [11<sup>de</sup> FOS “De Boekaniers”](http://www.deboekaniers.be){:target="_blank"}
+- Te Brussel, de [140<sup>ste</sup> FOS “Roodbaard”](http://roodbaard.scoutsnet.be){:target="_blank"}
+- Te De Panne, de [15<sup>de</sup> FOS “‘t Kraaienest”](http://www.scoutsdepanne.be){:target="_blank"}
+- Te Drongen (Gent), de [3<sup>de</sup> FOS “De Wilde Eend”](https://dewildeeend.be){:target="_blank"}
+- Te Nieuwpoort, de [8<sup>ste</sup> FOS “’t Vloedgat”](https://seascouts-nieuwpoort.be){:target="_blank"}
+- Te Oostende, de [2<sup>de</sup> FOS “Westhinder”](http://www.seascouts.be){:target="_blank"}
+- Te Sint-Niklaas (Waasland), [7<sup>de</sup> FOS “Mercator”](http://www.seascoutsmercator.be){:target="_blank"}
+- Te Zandvliet (Antwerpen), de [80<sup>ste</sup> FOS “Kludde”](http://www.seascoutskludde.be){:target="_blank"}

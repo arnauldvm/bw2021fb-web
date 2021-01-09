@@ -1,5 +1,5 @@
 ---
-title: Fanion bleu moderne
+title: Fanion Bleu moderne
 ---
 Le Fanion Bleu est normalement organisé tous les 2 ans.
 C’est ce que font à leur tour FOS Open Scouting, Scouts en Gidsen Vlaanderen et les Sea-Scouts francophones.

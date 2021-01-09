@@ -1,6 +1,17 @@
-<!-- cspell:disable-->
-Cat ipsum dolor sit amet, sphynx. Bobcat scottish fold. Russian blue russian blue norwegian forest and maine coon leopard lynx yet abyssinian.
-Turkish angora norwegian forest yet balinese cornish rex jaguar. Singapura singapura yet turkish angora devonshire rex persian.
-Ocelot. Bobcat cornish rex russian blue, cheetah. Singapura persian. Abyssinian. Puma. Himalayan ocelot but burmese munchkin,
-british shorthair for mouser. Egyptian mau grimalkin american bobtail, birman but kitty cheetah.
-<!-- cspell:enable-->
+Zeescouts zijn is vooral scout zijn zoals alle andere Scouts, maar daarnaast met varen.
+Zeilen, roeien of kajakken zijn allemaal activiteiten die worden toegevoegd aan het buitenleven,
+kamperen, exploratie, bouw, enz.
+
+Varen is vooral bekend om het praktische kennis van de jongere te versterken.
+Tijdens het navigeren zal hij worden geconfronteerd met situaties waarin hij concreet moet reageren.
+Dit leren gebeurt in een team, waarbij de meest ervaren leiding geeft aan de minder ervaren,
+volgens de formule die specifiek is voor scouting.
+
+Afhankelijk van het <mark>apparaat</mark> kunnen kinderen zich soms al op 5-jarige leeftijd inschrijven.
+Vanaf 18 jaar worden jongeren aangemoedigd om leider te worden en op hun beurt de jongste te begeleiden.
+
+In Vlaanderen zijn er zeescoutsen in verschillende steden.
+Twee federaties bieden marine scouting, de FOS Open Scouting en de Scouts et Gidsen Vlaanderen.
+
+In Franstaligge België zijn er zeescoutsen in verschillende steden.
+Twee federaties bieden zeescouting aan, de “Scouts et Guides Pluralistes” en “Les Scouts”.
