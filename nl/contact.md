@@ -1,6 +1,11 @@
-<!-- cspell:disable-->
-Cat ipsum dolor sit amet, sphynx. Bobcat scottish fold. Russian blue russian blue norwegian forest and maine coon leopard lynx yet abyssinian.
-Turkish angora norwegian forest yet balinese cornish rex jaguar. Singapura singapura yet turkish angora devonshire rex persian.
-Ocelot. Bobcat cornish rex russian blue, cheetah. Singapura persian. Abyssinian. Puma. Himalayan ocelot but burmese munchkin,
-british shorthair for mouser. Egyptian mau grimalkin american bobtail, birman but kitty cheetah.
-<!-- cspell:enable-->
+De Blauwe Wimpel 2021 wordt georganiseerd door FOS Open Scouting, Scouts en Gidsen Vlaanderen,
+les Scouts et Guides Pluralistes de Belgique, in samenwerking met de Marine. 
+
+Als u een Zeescout wilt worden, neem dan direct contact op met een eenheid bij u in de buurt.
+
+- **Algemeen contact: {% include email.liquid email='info@blauwewimpel2021.be' %}**
+
+- <mark>Registratie contact</mark>: {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- <mark>Contact sponsoring</mark>: {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- <mark>Perscontact</mark>: {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- <mark>Vrijwilligerscontact</mark>: {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
