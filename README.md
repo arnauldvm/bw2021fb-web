@@ -24,3 +24,9 @@ Use following option:
 Based on:
 
 - [Communication > web-structure-et-contenu-fr[4597].docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EeaekWerTqBIpvWAXUqkKFsBZBmXYOd5K85xTP7XThGWPQ?e=B3kddg).
+
+## Dutch
+
+Based on:
+
+- [Communication > Web_Inhoud_NL.docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EerjcA_5AVxAtIqdcQZSPFYBTR8gabL28jS-miycQd6ltQ?e=Wm7YFl).
