@@ -3,6 +3,7 @@ exclude:
 - README.md
 - fr
 - nl
+- env
 
 defaults:
 - scope:
