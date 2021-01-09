@@ -2,5 +2,5 @@
 title: Adres en toegang
 ---
 <!-- cspell:disable-->
-<i class="fa fa-map fa-5x"></i>
+<i class="bi-map-fill sz-5x"></i>
 <!-- cspell:enable-->
