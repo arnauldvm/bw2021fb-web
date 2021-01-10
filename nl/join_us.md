@@ -7,7 +7,7 @@ Tijdens het navigeren zal hij worden geconfronteerd met situaties waarin hij con
 Dit leren gebeurt in een team, waarbij de meest ervaren leiding geeft aan de minder ervaren,
 volgens de formule die specifiek is voor scouting.
 
-Afhankelijk van het <mark>apparaat</mark> kunnen kinderen zich soms al op 5-jarige leeftijd inschrijven.
+Afhankelijk van de eenheid kunnen kinderen zich soms al op 5-jarige leeftijd inschrijven.
 Vanaf 18 jaar worden jongeren aangemoedigd om leider te worden en op hun beurt de jongste te begeleiden.
 
 In Vlaanderen zijn er zeescoutsen in verschillende steden.
