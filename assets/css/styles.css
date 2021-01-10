@@ -82,7 +82,7 @@ mark {
 .sz-3x {
     font-size: 3em;
 }
-.sz-1x {
+.sz-2x {
     font-size: 2em;
 }
 [class^="bi-"]::before, [class*=" bi-"]::before {
