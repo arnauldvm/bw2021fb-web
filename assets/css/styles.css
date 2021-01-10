@@ -85,6 +85,12 @@ mark {
 .sz-2x {
     font-size: 2em;
 }
+.sz-small {
+    font-size: small;
+}
+.sz-smaller {
+    font-size: smaller;
+}
 [class^="bi-"]::before, [class*=" bi-"]::before {
     vertical-align: middle;
 }

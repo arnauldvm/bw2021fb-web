@@ -9,3 +9,4 @@ Als u een Zeescout wilt worden, neem dan direct contact op met een eenheid bij u
 - <mark>Contact sponsoring</mark>: {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
 - <mark>Perscontact</mark>: {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
 - <mark>Vrijwilligerscontact</mark>: {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- Technische IT ondersteuning: {% include email.liquid email='it@blauwewimpel2021.be' %}
