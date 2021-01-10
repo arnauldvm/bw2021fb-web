@@ -216,7 +216,7 @@ zeescouts zijn is vooral scout zijn zoals alle andere Scouts, maar daarnaast met
 
 Varen is vooral bekend om het praktische kennis van de jongere te versterken. Tijdens het navigeren zal hij worden geconfronteerd met situaties waarin hij concreet moet reageren. Dit leren gebeurt in een team, waarbij de meest ervaren leiding geeft aan de minder ervaren, volgens de formule die specifiek is voor scouting.
 
-Afhankelijk van het apparaat kunnen kinderen zich soms al op 5-jarige leeftijd inschrijven. Vanaf 18 jaar worden jongeren aangemoedigd om leider te worden en op hun beurt de jongste te begeleiden.
+Afhankelijk van de eenheid kunnen kinderen zich soms al op 5-jarige leeftijd inschrijven. Vanaf 18 jaar worden jongeren aangemoedigd om leider te worden en op hun beurt de jongste te begeleiden.
 
 Quid des francophones ?
 
@@ -256,7 +256,7 @@ Bij « SGP » :
 
 - Te Jambes, de 23ste Sea-Scouts et Sea-Guides “Sambre et Meuse”
 - Te Couvin, de 24ste Sea-Scouts et Sea-Guides “Cunihan”
-- Te Brussel, de 25ste Sea-Scouts et Sea-Guides “Port de Bruxelles” basée à Vilvorde
+- Te Brussel, de 25ste Sea-Scouts et Sea-Guides “Port de Bruxelles” basée à Vilvorde gevestigd in Vilvoorde
 - Te Hannut, de 26ste Sea-Scouts et Sea-Guides “Le Récif”
 - Te Seneffe, de 72ste Sea-Scouts et Sea-Guides “ Adrien de Gerlache”
 
@@ -264,7 +264,7 @@ Bij « Les Scouts »
 
 - Te Brussel, de 75ste Sea-Scouts “Bruxelles-Horizon”
 - Te Anhée, de 40ste Sea-Scouts Aduatiques “Namur-Meuse”
-- Te Court-Saint-Etienne, de 10de Brabant Wallon possède une troupe de scouts marins
+- Te Court-Saint-Etienne, de 10de Brabant Wallon possède une troupe de scouts marins heeft een troep van zeescouts
 
 
 ### FAQ
