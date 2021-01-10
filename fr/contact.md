@@ -9,3 +9,4 @@ Si vous désirez devenir scout marin, veuillez prendre contact directement avec 
 - Contact sponsoring : {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
 - Contact presse : {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
 - Contact bénévoles : {% include email.liquid email='XXXXXX@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+- Support technique IT : {% include email.liquid email='it@fanionbleu2021.be' %}
