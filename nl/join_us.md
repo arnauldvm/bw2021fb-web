@@ -13,5 +13,5 @@ Vanaf 18 jaar worden jongeren aangemoedigd om leider te worden en op hun beurt d
 In Vlaanderen zijn er zeescoutsen in verschillende steden.
 Twee federaties bieden marine scouting, de FOS Open Scouting en de Scouts et Gidsen Vlaanderen.
 
-In Franstaligge België zijn er zeescoutsen in verschillende steden.
+In Franstalige België zijn er zeescouts in verschillende steden.
 Twee federaties bieden zeescouting aan, de “Scouts et Guides Pluralistes” en “Les Scouts”.
