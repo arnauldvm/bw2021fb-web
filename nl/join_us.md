@@ -10,7 +10,7 @@ volgens de formule die specifiek is voor scouting.
 Afhankelijk van de eenheid kunnen kinderen zich soms al op 5-jarige leeftijd inschrijven.
 Vanaf 18 jaar worden jongeren aangemoedigd om leider te worden en op hun beurt de jongste te begeleiden.
 
-In Vlaanderen zijn er zeescoutsen in verschillende steden.
+In Vlaanderen zijn er zeescouts in verschillende steden.
 Twee federaties bieden marine scouting, de FOS Open Scouting en de Scouts et Gidsen Vlaanderen.
 
 In Franstalige België zijn er zeescouts in verschillende steden.
