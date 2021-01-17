@@ -16,6 +16,6 @@ Sympathisant:
 
 Geïnteresseerd? Vul snel ons formulier in. We nemen contact met je op.
 
-Voor elke vraag of logo zending: {% include email.liquid email='xxxxx@blauwewimpel2021.be' %} <mark>(mailbox à créer)</mark>
+Voor elke vraag of logo zending: {% include email.liquid alias='xxxxx' %} <mark>(mailbox à créer)</mark>
 
 {% include download.liquid text='Formulier' %} <mark>(régler emplacement fichier Excel)</mark>

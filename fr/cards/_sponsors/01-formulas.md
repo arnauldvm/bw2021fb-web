@@ -16,6 +16,6 @@ Sympathisant :
 
 Intéressé ? Remplissez vite notre formulaire. Nous reprendrons contact avec vous.
 
-Pour toute question ou envoi de logo : {% include email.liquid email='xxxxx@fanionbleu2021.be' %} <mark>(mailbox à créer)</mark>
+Pour toute question ou envoi de logo : {% include email.liquid alias='xxxxx' %} <mark>(mailbox à créer)</mark>
 
 {% include download.liquid text='Formulaire' %} <mark>(régler emplacement fichier Excel)</mark>
