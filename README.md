@@ -15,7 +15,7 @@ Use following option:
 
 ## Content
 
-- Source files from Sharepoint folder [Communication](https://seascouts.sharepoint.com/:f:/s/blauwewimpel2021fanionbleu/EoDLI-jymd5OrO7wMPCSqpwBUBjVH3HnlEkCJy7XxGUSBw?e=92no6G)
+- Source files from Sharepoint folder [Communication](https://seascouts.sharepoint.com/:f:/s/blauwewimpel2021fanionbleu/EoDLI-jymd5OrO7wMPCSqpwBUBjVH3HnlEkCJy7XxGUSBw?e=92no6G) > Web site
 - Stored in [`_sources`](./_sources)
 - Markdown conversion and images extraction by <https://products.aspose.app/words/conversion/word-to-md>
 
@@ -23,10 +23,14 @@ Use following option:
 
 Based on:
 
-- [Communication > web-structure-et-contenu-fr[4597].docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EeaekWerTqBIpvWAXUqkKFsBZBmXYOd5K85xTP7XThGWPQ?e=B3kddg).
+- [Communication > Web site > web-structure-et-contenu-fr[4597].docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EeaekWerTqBIpvWAXUqkKFsBZBmXYOd5K85xTP7XThGWPQ?e=B3kddg).
 
 ## Dutch
 
 Based on:
 
-- [Communication > Web_Inhoud_NL[4596].docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EYDi1JRRY8JCvhq6D6LTpaABNgSMsAmyWkh4BdQdSgILTw?e=6tSc6X).
+- [Communication > Web site > Web_Inhoud_NL[4596].docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EYDi1JRRY8JCvhq6D6LTpaABNgSMsAmyWkh4BdQdSgILTw?e=6tSc6X).
+
+With corrections from Lowie Joye:
+
+- [Communication > Web site > Site BW2021FB.pdf](https://seascouts.sharepoint.com/:b:/s/blauwewimpel2021fanionbleu/EV7zOolOvJpOnORKbqfSCPQBN3TzxW-tH8nfJEnAYbiCXw?e=kREGNX).

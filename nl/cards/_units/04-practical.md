@@ -12,9 +12,9 @@ Leeftijdscategorieën?
 
 (Een kwartier bestaat uit ten minste 6 personen en maximaal 8 personen)
 
-Deelname aan kosten??
+Deelname aan kosten?
 : 32€ (transfer tussen station Zeebrugge en marinebasis te voet)
 
 Leiding?
-: Voor een vlot verloop van deze Blauwe Wimpel goed werkt,
+: Voor een vlot verloop van deze Blauwe Wimpel,
   vragen wij om minimaal 1 leiding voor 5 deelnemers te voorzien.
