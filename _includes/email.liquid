@@ -1,1 +1,6 @@
-<a class="bi-envelope text-nowrap" href="mailto:{{ include.email }}"> {{ include.email }}</a>
+{% if include.email -%}
+    {% assign email_adress = include.email -%}
+{% else -%}
+    {% assign email_adress = site.email_aliases_map[include.alias] | default: include.alias | append: site.email_domain -%}
+{% endif -%}
+<a class="bi-envelope text-nowrap" href="mailto:{{ email_adress }}"> {{ email_adress }}</a>
