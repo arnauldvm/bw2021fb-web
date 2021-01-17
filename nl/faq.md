@@ -3,7 +3,7 @@ Mijn eenheid is vooraf geregistreerd; wat gebeurt er met de borg betaald in het 
   worden de betaalde borgsommen volledig teruggestort aan de eenheden die vooraf zijn geregistreerd.
 
 Ik heb de registratiedatum gemist, kan ik nog steeds deelnemen?
-: Indien je te laat bent met je inschrijving, stuur een e-mail naar {% include email.liquid alias='XXXXXX' %} <mark>(mailbox à créer)</mark>.
+: Indien je te laat bent met je inschrijving, stuur een e-mail naar {% include email.liquid alias='enrol' %}.
   We zullen zien of we je nog kunnen inschrijven of niet.
 
 Kan mijn eenheid op zaterdagochtend aankomen?

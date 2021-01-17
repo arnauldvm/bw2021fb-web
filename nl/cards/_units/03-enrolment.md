@@ -2,7 +2,7 @@
 title: Registratie van de deelnemers
 ---
 De definitieve inschrijving van de deelnemers gebeurt door het onderstaande document in te vullen en door te sturen naar het volgend e-mailadres:
-{% include email.liquid alias='XXXXXX' %} <mark>(mailbox à créer)</mark>
+{% include email.liquid alias='enrol' %}
 
 Gelieve de geschatte tijd en aankomstdatum in de e-mail en het bestand te vermelden.
 

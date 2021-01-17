@@ -5,8 +5,8 @@ Als u een Zeescout wilt worden, neem dan direct contact op met een eenheid bij u
 
 - **Algemeen contact: {% include email.liquid alias='info' %}**
 
-- <mark>Registratie contact</mark>: {% include email.liquid alias='XXXXXX' %} <mark>(mailbox à créer)</mark>
-- <mark>Contact sponsoring</mark>: {% include email.liquid alias='XXXXXX' %} <mark>(mailbox à créer)</mark>
-- <mark>Perscontact</mark>: {% include email.liquid alias='XXXXXX' %} <mark>(mailbox à créer)</mark>
-- <mark>Vrijwilligerscontact</mark>: {% include email.liquid alias='XXXXXX' %} <mark>(mailbox à créer)</mark>
-- Technische IT ondersteuning: {% include email.liquid alias='it' %}
+- <mark>Registratie contact</mark>: {% include email.liquid alias='enrol' %}
+- <mark>Contact sponsoring</mark>: {% include email.liquid alias='sponsors' %}
+- <mark>Perscontact</mark>: {% include email.liquid alias='press' %}
+- <mark>Vrijwilligerscontact</mark>: {% include email.liquid alias='volunteers' %}
+- Technische IT ondersteuning: {% include email.liquid alias='it_support' %}

@@ -16,6 +16,6 @@ Sympathisant:
 
 Geïnteresseerd? Vul snel ons formulier in. We nemen contact met je op.
 
-Voor elke vraag of logo zending: {% include email.liquid alias='xxxxx' %} <mark>(mailbox à créer)</mark>
+Voor elke vraag of logo zending: {% include email.liquid alias='sponsors' %}
 
 {% include download.liquid text='Formulier' %} <mark>(régler emplacement fichier Excel)</mark>
