@@ -1,7 +1,7 @@
 ---
 title: Registratie van de deelnemers
 ---
-De definitieve inschrijving van de deelnemers gebeurt door het onderstaande document ingevuld, door te sturen naar het volgend e-mail adres:
+De definitieve inschrijving van de deelnemers gebeurt door het onderstaande document in te vullen en door te sturen naar het volgend e-mailadres:
 {% include email.liquid email='XXXXXX@blauwewimpel2021.be' %} <mark>(mailbox à créer)</mark>
 
 Gelieve de geschatte tijd en aankomstdatum in de e-mail en het bestand te vermelden.
