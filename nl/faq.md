@@ -7,5 +7,5 @@ Ik heb de registratiedatum gemist, kan ik nog steeds deelnemen?
   We zullen zien of we je nog kunnen inschrijven of niet.
 
 Kan mijn eenheid op zaterdagochtend aankomen?
-: Ja, dit kan op zaterdagochtend voor tegen ten laatste 9u00, geef dit op bij het registreren van de deelnemers.
+: Ja, dit kan op zaterdagochtend voor tegen ten laatste 8u30, geef dit op bij het registreren van de deelnemers.
   Het bedrag van de registratie blijft hetzelfde.

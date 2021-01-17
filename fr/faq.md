@@ -7,5 +7,5 @@ J’ai raté les dates d’inscriptions, puis-je encore participer ?
   Nous verrons si nous pouvons encore vous intégrer ou pas.
 
 Mon unité peut-elle arriver le samedi matin ?
-: Oui, vous pouvez arriver le samedi matin avant 9h, merci de le préciser lors de l’inscription des participants.
+: Oui, vous pouvez arriver le samedi matin avant 8h30, merci de le préciser lors de l’inscription des participants.
   Le montant de l’inscription reste le même.
