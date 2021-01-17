@@ -30,3 +30,7 @@ Based on:
 Based on:
 
 - [Communication > Web site > Web_Inhoud_NL[4596].docx](https://seascouts.sharepoint.com/:w:/s/blauwewimpel2021fanionbleu/EYDi1JRRY8JCvhq6D6LTpaABNgSMsAmyWkh4BdQdSgILTw?e=6tSc6X).
+
+With corrections from Lowie Joye:
+
+- [Communication > Web site > Site BW2021FB.pdf](https://seascouts.sharepoint.com/:b:/s/blauwewimpel2021fanionbleu/EV7zOolOvJpOnORKbqfSCPQBN3TzxW-tH8nfJEnAYbiCXw?e=kREGNX).
