@@ -15,3 +15,5 @@ Donaties zijn fiscaal aftrekbaar vanaf 40 €.
 {% include download.liquid text='Blauwe Wimpel 2021 sponsorbestand' %} <mark>(lien)</mark>  
 
 {% include download.liquid text='Sponsorcharter' %} <mark>(lien)</mark>
+
+Voor elke vraag of voorstelling: {% include email.liquid alias='sponsors' %}

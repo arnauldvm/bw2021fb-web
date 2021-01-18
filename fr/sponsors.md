@@ -14,3 +14,5 @@ Les dons sont déductibles fiscalement à partir de 40 €.
 
 {% include download.liquid text='Dossier sponsoring Fanion Bleu 2021' %} <mark>(lien)</mark>  
 {% include download.liquid text='Charte de sponsoring' %} <mark>(lien)</mark>
+
+Pour toute question ou proposition : {% include email.liquid alias='sponsors' %}
