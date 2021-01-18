@@ -3,9 +3,6 @@ Du 7 au 9 mai 2021, Zeebrugge sera le centre de la Belgique pour les scouts mari
 
 #### Conditions de participation
 
-<!-- cspell:disable-->
-<mark>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
-sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</mark>
-<!-- cspell:enable-->
+_(Le détail des conditions de participatation sera prochainement disponible.)_
+
+{%- comment %}TODO: by 15-FEB: To be provided by ComPil{% endcomment %}

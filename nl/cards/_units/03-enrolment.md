@@ -13,7 +13,9 @@ Uw inschrijving wordt pas in aanmerking genomen na ontvangst van het formulier e
 > IBAN: BE82 0018 9746 2668  
 > Mededeling: Participation + nom et numéro de l’unité
 
-De inschrijvingen startten op XX XXXXX 2021 en sluiten op XX XXXXX 2021.
+De inschrijvingen startten op **3 maart 2021** en sluiten op **18 maart 2021**.
 
+{%- comment %}TODO: by 03-MAR: To be provided by Simon
 {% include download.liquid text='Modelvorm downloaden' %}
 <mark>(Fichier modèle à fournir)</mark>
+{% endcomment %}

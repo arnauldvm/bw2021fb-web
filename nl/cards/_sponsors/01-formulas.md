@@ -1,5 +1,6 @@
 ---
 title: Onze formules
+hide: true
 ---
 Hoofdsponsors:
 : Word partner van de blauwe vlag!
