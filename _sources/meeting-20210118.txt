@@ -1,0 +1,42 @@
+fr/units.md:<mark>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna (conditions de participation)
+-> "Informations disponibles d'ici quelques temps"
+-> nécessaire, cf. contenu discuté en réunion, pour le 15 février
+
+fr/cards/_units/03-enrolment.md:L’inscription des participants s'ouvrira le <mark>XX XXXXX 2021</mark> et se clôturera le <mark>XX XXXXX 2021</mark>.
+-> 3 mars - 18 mars
+
+fr/cards/_units/03-enrolment.md:<mark>(Fichier modèle à fournir)</mark>
+-> Cacher jusqu'au 3 mars
+-> À faire par Simon
+
+fr/cards/_units/05-dates.md:- Inscription participants : <mark>xx/x au xx/x/2021</mark>
+-> 3 mars - 18 mars
+
+fr/participants.md:<mark>...</mark> (compléter les infos pratiques pour les participants)
+-> Sera fourni par FOS et d'autres
+-> Laisser en l'état d'ici là
+
+fr/cards/_participants/01-practical.md:<mark>...</mark> (compléter le matériel à emporter par les participants)
+-> Cacher jusqu'au 3 mars
+-> Sera fourni par FOS
+
+fr/volunteers.md:Pour se porter candidat bénévole au Fanion Bleu 2021, remplissez le <mark>formulaire d’inscription comme bénévole</mark>.
+-> Le formulaire existe dans Teams
+
+fr/sponsors.md:{% include download.liquid text='Dossier sponsoring Fanion Bleu 2021' %} <mark>(lien)</mark> 
+-> supprimer le download du dossier
+-> garder le text, mettre l'adresse mail
+
+fr/sponsors.md:{% include download.liquid text='Charte de sponsoring' %} <mark>(lien)</mark>
+-> supprimer le download de la charte
+
+fr/cards/_sponsors/01-formulas.md:{% include download.liquid text='Formulaire' %} <mark>(régler emplacement fichier Excel)</mark>
+-> supprimer toute la section formules
+
+fr/cards/_sponsors/02-sponsors.md:<mark>Emplacement pour logo sponsor</mark>
+fr/cards/_sponsors/02-sponsors.md:<mark>Emplacement pour sympathisant (texte)</mark>
+-> supprimer logo point-be
+-> laisser logos sponsors à cet endroit
+
+fr/press.md:Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna (texte pour la presse)
+-> Pour toute question concernant l'événement, contactez-nous à info@...
