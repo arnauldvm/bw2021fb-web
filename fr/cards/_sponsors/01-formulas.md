@@ -1,5 +1,6 @@
 ---
 title: Nos formules
+hide: true
 ---
 Main sponsors
 : Devenez partenaire du fanion bleu !
