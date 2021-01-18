@@ -15,5 +15,7 @@ Uw inschrijving wordt pas in aanmerking genomen na ontvangst van het formulier e
 
 De inschrijvingen startten op **3 maart 2021** en sluiten op **18 maart 2021**.
 
+{%- comment %}TODO: by 03-MAR: To be provided by Simon
 {% include download.liquid text='Modelvorm downloaden' %}
 <mark>(Fichier modèle à fournir)</mark>
+{% endcomment %}

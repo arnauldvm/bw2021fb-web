@@ -15,5 +15,7 @@ Votre inscription ne sera prise en compte qu’après réception du formulaire e
 
 L’inscription des participants s'ouvrira le **3 mars 2021** et se clôturera le **18 mars 2021**.
 
+{%- comment %}TODO: by 03-MAR: To be provided by Simon
 {% include download.liquid text='Télécharger le template' %}
 <mark>(Fichier modèle à fournir)</mark>
+{% endcomment %}
