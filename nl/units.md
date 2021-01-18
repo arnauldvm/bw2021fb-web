@@ -3,9 +3,6 @@ In de Marine basis willen we jullie allemaal met open armen ontvangen om samen t
 
 #### Deelneming condities
 
-<!-- cspell:disable-->
-<mark>Cat ipsum dolor sit amet, sphynx. Bobcat scottish fold. Russian blue russian blue norwegian forest and maine coon leopard lynx yet abyssinian.
-Turkish angora norwegian forest yet balinese cornish rex jaguar. Singapura singapura yet turkish angora devonshire rex persian.
-Ocelot. Bobcat cornish rex russian blue, cheetah. Singapura persian. Abyssinian. Puma. Himalayan ocelot but burmese munchkin,
-british shorthair for mouser. Egyptian mau grimalkin american bobtail, birman but kitty cheetah.</mark>
-<!-- cspell:enable-->
+_(Gedetailleerde deelneming condities zullen binnenkort beschikbaar zijn.)_
+
+{%- comment %}TODO: by 15-FEB: To be provided by ComPil{% endcomment %}
