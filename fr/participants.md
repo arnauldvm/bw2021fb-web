@@ -17,4 +17,4 @@ Les tranches d’âge sont :
 Chaque équipe sera inscrite sous le nom d’un animal.
 Les participants sont inscrits via leur unité, aucune inscription individuelle n’est prévue.
 
-<mark>...</mark>
+{%- comment %}TODO: To be completed by FOS{% endcomment %}

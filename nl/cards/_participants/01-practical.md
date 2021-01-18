@@ -7,4 +7,4 @@ Naast de gebruikelijke weekenduitrusting, moet u het volgende voorzien:
 - Gamelle, bestek en beker
 - Luchtmatrassen, slaapzakken
 
-<mark>...</mark>
+{%- comment %}TODO: by 03-MAR: To be completed by FOS{% endcomment %}
