@@ -26,14 +26,14 @@ layout: default
     {%- for this_collection in this_collection_arr %}
         <br>
         <div class="row">
-        {%- for _ in this_collection.docs %}
+        {%- for _ in this_collection.docs %}{% unless _.hide %}
         <div class="col-sm-6"><div class="card text-dark mt-2 mb-2 card-body">
             <h3 class="card-title">{{ _.title }}</h3>
             <div class="card-text">
 {{ _.content }}
             </div>
         </div></div>
-        {% endfor %}
+        {% endunless %}{% endfor %}
         </div>
     {%- endfor %}
 <!-- << page layout -->
