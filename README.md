@@ -34,3 +34,5 @@ Based on:
 With corrections from Lowie Joye:
 
 - [Communication > Web site > Site BW2021FB.pdf](https://seascouts.sharepoint.com/:b:/s/blauwewimpel2021fanionbleu/EV7zOolOvJpOnORKbqfSCPQBN3TzxW-tH8nfJEnAYbiCXw?e=kREGNX).
+
+And finalization decisions taken during [SGP meeting on 18-Jan-2021](_sources/meeting-20210118.txt).
