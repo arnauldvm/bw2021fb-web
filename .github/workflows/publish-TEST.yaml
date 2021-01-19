@@ -12,6 +12,7 @@ jobs:
   jekyll-build:
     name: Build
     runs-on: ubuntu-latest
+    environment: ${{ env.target }}
     strategy:
       matrix:
         language: [fr, nl]
@@ -39,7 +40,7 @@ jobs:
       uses: docker://jekyll/jekyll@sha256:de110e0fdde342de0cb6fd5c63f64934b6ce25d0dd826c67113b3a5a3370784e  # This is version 4.2.0, using SHA-256 to avoid backdoor introduction
       # uses: docker://jekyll/builder@sha256:b918b81939a1076dce89d142c0764c2c3cb93858f56ecf4f04ad0387338e77aa  # This is version 4.2.0, using SHA-256 to avoid backdoor introduction
       env:
-        JEKYLL_ENV: TEST
+        JEKYLL_ENV: ${{ env.target }}
       with:
         args: jekyll build --trace --verbose --config _config.yml,_config.${{ matrix.language }}.yml
     
@@ -51,13 +52,14 @@ jobs:
     - name: Preserving built files
       uses: actions/upload-artifact@v2
       with:
-        name: web-site[TEST][${{ matrix.language }}]
+        name: web-site[${{ env.target }}][${{ matrix.language }}]
         path: _site/
 
   web-deploy:
     name: Deploy
     runs-on: ubuntu-latest
     needs: jekyll-build
+    environment: ${{ env.target }}
     strategy:
       matrix:
         language: [fr, nl]
@@ -66,7 +68,7 @@ jobs:
     - name: Retrieving built files
       uses: actions/download-artifact@v2
       with:
-        name: web-site[TEST][${{ matrix.language }}]
+        name: web-site[${{ env.target }}][${{ matrix.language }}]
         path: .
 
     - name: Show build result
@@ -78,7 +80,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@2a4e9b1312ebeb73a1f72b9330c71831c1e4ce01  # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
         # This action is not verified by Github, hence we must authorize "all" actions!
       with:
-        server: ${{ secrets.TEST_FTP_SERVER }}
-        username: ${{ secrets.TEST_FTP_USER }}
-        password: ${{ secrets.TEST_FTP_PASSWORD }}
-        server-dir: ${{ secrets.TEST_FTP_TARGETDIR }}/${{ matrix.language }}/
+        server: ${{ secrets["FTP_SERVER_"+matrix.language }}
+        username: ${{ secrets["FTP_USER_"+matrix.language }}
+        password: ${{ secrets["FTP_PASSWORD_"+matrix.language }}
+        server-dir: ${{ secrets["FTP_TARGETDIR_"+matrix.language }}/
