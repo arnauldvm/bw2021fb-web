@@ -40,6 +40,7 @@ redirects:
 
 # defaults for dev tests
 language: fr
+lcid: fr-FR
 collections_dir: fr/cards
 title: Fanion Bleu 2021
 email_domain: '@fanionbleu2021.be'
