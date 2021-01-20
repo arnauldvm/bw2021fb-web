@@ -12,7 +12,6 @@ jobs:
   jekyll-build:
     name: Build
     runs-on: ubuntu-latest
-    environment: ${{ env.target }}
     strategy:
       matrix:
         language: [fr, nl]
@@ -59,7 +58,6 @@ jobs:
     name: Deploy
     runs-on: ubuntu-latest
     needs: jekyll-build
-    environment: ${{ env.target }}
     strategy:
       matrix:
         language: [fr, nl]
@@ -76,11 +74,21 @@ jobs:
         pwd
         ls -lhAF
 
+    - name: FTP secrets names per language & per env
+      id: secrets-names
+      run: |
+        LANG=${{ matrix.language }}
+        echo "::set-output name=FTP_SERVER::${target}_${LANG^^}_FTP_SERVER"
+        echo "::set-output name=FTP_USER::${target}_${LANG^^}_FTP_USER"
+        echo "::set-output name=FTP_PASSWORD::${target}_${LANG^^}_FTP_PASSWORD"
+        echo "::set-output name=FTP_TARGETDIR::${target}_${LANG^^}_FTP_TARGETDIR"
+      # ${LANG^^} stands for uppercase language
+
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@2a4e9b1312ebeb73a1f72b9330c71831c1e4ce01  # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
         # This action is not verified by Github, hence we must authorize "all" actions!
       with:
-        server: ${{ secrets["FTP_SERVER_"+matrix.language }}
-        username: ${{ secrets["FTP_USER_"+matrix.language }}
-        password: ${{ secrets["FTP_PASSWORD_"+matrix.language }}
-        server-dir: ${{ secrets["FTP_TARGETDIR_"+matrix.language }}/
+        server: ${{ secrets[ steps.secrets-names.outputs.FTP_SERVER ] }}
+        username: ${{ secrets[ steps.secrets-names.outputs.FTP_USER ] }}
+        password: ${{ secrets[ steps.secrets-names.outputs.FTP_PASSWORD ] }}
+        server-dir: ${{ secrets[ steps.secrets-names.outputs.FTP_TARGETDIR ] }}/  # ending / cannot be removed
