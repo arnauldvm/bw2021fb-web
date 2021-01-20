@@ -1,0 +1,3 @@
+::set-output name=FTP_SERVER::ftp.cluster010.hosting.ovh.net
+::set-output name=FTP_USER::pendrago
+::set-output name=FTP_TARGETDIR::/test/bw2021fb/nl

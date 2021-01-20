@@ -54,6 +54,12 @@ jobs:
         name: web-site[${{ env.target }}][${{ matrix.language }}]
         path: _site/
 
+    - name: Preserving params
+      uses: actions/upload-artifact@v2
+      with:
+        name: build-params[${{ env.target }}][${{ matrix.language }}]
+        path: .github/workflows/env/${{ env.target }}-${{ matrix.language }}
+
   web-deploy:
     name: Deploy
     runs-on: ubuntu-latest
@@ -62,6 +68,18 @@ jobs:
       matrix:
         language: [fr, nl]
     steps:   
+
+    - name: Retrieving params
+      uses: actions/download-artifact@v2
+      with:
+        name: build-params[${{ env.target }}][${{ matrix.language }}]
+        path: .github/workflows/env/
+          # Note: no need to exclude this file from FTP upload, because it's covered by default excludes (.git* ...)
+
+    - name: FTP params per language & per env
+      id: ftp-params
+      run: |
+        cat .github/workflows/env/${{ env.target }}-${{ matrix.language }}
 
     - name: Retrieving built files
       uses: actions/download-artifact@v2
@@ -78,17 +96,14 @@ jobs:
       id: secrets-names
       run: |
         LANG=${{ matrix.language }}
-        echo "::set-output name=FTP_SERVER::${target}_${LANG^^}_FTP_SERVER"
-        echo "::set-output name=FTP_USER::${target}_${LANG^^}_FTP_USER"
         echo "::set-output name=FTP_PASSWORD::${target}_${LANG^^}_FTP_PASSWORD"
-        echo "::set-output name=FTP_TARGETDIR::${target}_${LANG^^}_FTP_TARGETDIR"
       # ${LANG^^} stands for uppercase language
 
     - name: Sync files
       uses: SamKirkland/FTP-Deploy-Action@2a4e9b1312ebeb73a1f72b9330c71831c1e4ce01  # This is version 4.0.0, using SHA-1 to avoid backdoor introduction
         # This action is not verified by Github, hence we must authorize "all" actions!
       with:
-        server: ${{ secrets[ steps.secrets-names.outputs.FTP_SERVER ] }}
-        username: ${{ secrets[ steps.secrets-names.outputs.FTP_USER ] }}
+        server: ${{ steps.ftp-params.outputs.FTP_SERVER }}
+        username: ${{ steps.ftp-params.outputs.FTP_USER }}
         password: ${{ secrets[ steps.secrets-names.outputs.FTP_PASSWORD ] }}
-        server-dir: ${{ secrets[ steps.secrets-names.outputs.FTP_TARGETDIR ] }}/  # ending / cannot be removed
+        server-dir: ${{ steps.ftp-params.outputs.FTP_TARGETDIR }}/  # ending / cannot be removed
