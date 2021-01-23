@@ -1,3 +1,3 @@
 ::set-output name=FTP_SERVER::ns1.pointbe.eu
 ::set-output name=FTP_USER::FTP98fanion
-::set-output name=FTP_TARGETDIR::/
+::set-output name=FTP_TARGETDIR::/web
