@@ -29,13 +29,13 @@ redirects:
     label: Français
     base:
       TEST: https://test.pendragon.be/bw2021fb/fr
-      PROD: http://fanionbleu2021.be
+      PROD: http://www.fanionbleu2021.be
       development: http://localhost:4000
   nl:
     label: Nederlands
     base:
       TEST: https://test.pendragon.be/bw2021fb/nl
-      PROD: http://blauwewimpel2021.be
+      PROD: http://www.blauwewimpel2021.be
       development: http://localhost:4000
 
 # defaults for dev tests
