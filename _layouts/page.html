@@ -16,6 +16,10 @@ layout: default
         {%- endfor %}
         </ul></div></nav>
 
+        <div class="card card-body mt-2 text-white bg-danger text-center font-weight-bold">
+            {% include {{ site.language | append: "/postponing.html" }} %}
+        </div>
+
         <h2 class="display-4 border border-bw2021fb text-bw2021fb rounded-lg">{{ page.titles[site.language] | default: page.title }}</h2>
 
         <div class="card card-body mb-2">
