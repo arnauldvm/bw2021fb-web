@@ -1,3 +1,7 @@
+## History of changes
+
+See [CHANGELOG](./CHANGELOG.md)
+
 ## Multiple language support
 
 ### Files to edit
