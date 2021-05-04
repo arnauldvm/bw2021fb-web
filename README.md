@@ -1,3 +1,19 @@
+Content
+-------
+
+<!-- TOC -->
+
+- [History of changes](#history-of-changes)
+- [Multiple language support](#multiple-language-support)
+    - [Files to edit](#files-to-edit)
+    - [Select at build time](#select-at-build-time)
+    - [Forms selection](#forms-selection)
+- [Content](#content)
+- [French](#french)
+- [Dutch](#dutch)
+
+<!-- /TOC -->
+
 ## History of changes
 
 See [CHANGELOG](./CHANGELOG.md)
