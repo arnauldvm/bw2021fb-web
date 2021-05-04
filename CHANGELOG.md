@@ -12,16 +12,24 @@ Changelog
 
 ## 1.2 - 2021-03-05
 
+([tag:release/1.2](../../tree/release/1.2))
+
 Dates for 2022 are announced
 
 ## 1.1 - 2021-03-05
+
+([tag:release/1.1](../../tree/release/1.1))
 
 Event 2021 is postponed
 
 ## 1.0.1 - 2021-01-23
 
+([tag:release/1.0.1](../../tree/release/1.0.1))
+
 Published to PROD
 
 ## 1.0 - 2021-01-20
+
+([tag:release/1.0](../../tree/release/1.0))
 
 First final version, ready for PROD
