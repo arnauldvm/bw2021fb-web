@@ -1,5 +1,6 @@
 exclude:
 - cSpell.json
+- run_local.sh
 - README.md
 - CHANGELOG.md
 - fr
