@@ -20,6 +20,7 @@ Changelog
 
 ## 1.2.1 - 2021-05-13
 
+([tag:release/1.2.1](../../tree/release/1.2.1))
 (fork)
 
 Remove 2021 content
