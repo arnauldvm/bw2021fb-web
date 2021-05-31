@@ -6,7 +6,7 @@ Je moet wel lid zijn bij één van de deelnemende federaties.
 De grote zaterdagwedstrijd bevat veel "kant-en-klare" posities die moeten worden beheerd door tweetalige teams.
 Voor hen staat op vrijdagavond een briefing gepland.
 
-Om je als vrijwilliger in te schrijven voor de Blauwe Wimpel 2021, vul je het registratieformulier voor vrijwilliger in:
+Om je als vrijwilliger in te schrijven voor de Blauwe Wimpel 2022, vul je het registratieformulier voor vrijwilliger in:
 
 <iframe width="100%" height= "400px"
     src= "https://forms.office.com/Pages/ResponsePage.aspx?id=wJTp-yMqB0unqR9n4eLmF1y1L-8qYpZFpOx-CGgFSQZUM0xYUEtPODlOQjdNSVQyVE5ORzhTQlBNSCQlQCN0PWcu&embed=true&lang={{ site.lcid }}"

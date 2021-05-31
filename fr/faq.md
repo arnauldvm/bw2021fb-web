@@ -1,5 +1,5 @@
 Mon unité est préinscrite ; que devient la caution versée en cas d’annulation de l’événement pour raisons sanitaires ?
-: En cas d’annulation du Fanion Bleu 2021 pour raisons sanitaires,
+: En cas d’annulation du Fanion Bleu 2022 pour raisons sanitaires,
   les cautions versées seront intégralement restituées aux unités qui étaient préinscrites.
 
 J’ai raté les dates d’inscriptions, puis-je encore participer ?

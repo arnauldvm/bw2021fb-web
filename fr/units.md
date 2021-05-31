@@ -1,5 +1,5 @@
-Du 7 au 9 mai 2021, Zeebrugge sera le centre de la Belgique pour les scouts marins.
-À la base de la Marine, nous vous accueillerons tous à bras ouverts pour concourir ensemble pour le Fanion Bleu 2021.
+Du 6 au 8 mai 2022, Zeebrugge sera le centre de la Belgique pour les scouts marins. {%- comment %}TBC: dates{% endcomment %}
+À la base de la Marine, nous vous accueillerons tous à bras ouverts pour concourir ensemble pour le Fanion Bleu 2022.
 
 #### Conditions de participation
 

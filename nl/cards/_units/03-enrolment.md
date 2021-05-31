@@ -9,11 +9,11 @@ Gelieve de geschatte tijd en aankomstdatum in de e-mail en het bestand te vermel
 Uw inschrijving wordt pas in aanmerking genomen na ontvangst van het formulier en het bedrag van de inschrijvingen
 (32 euro per deelnemer) op de rekening:
 
-> Begunstigde: BW2021FB  
+> Begunstigde: BW2021FB {%- comment %}TODO: Is the beneficiary changed?{% endcomment %}  
 > IBAN: BE82 0018 9746 2668  
 > Mededeling: Participation + nom et numéro de l’unité
 
-De inschrijvingen startten op **3 maart 2021** en sluiten op **18 maart 2021**.
+De inschrijvingen startten op **1<sup>ste</sup> januari 2022** en sluiten op **15 februari 2022**. {%- comment %}TBC: dates{% endcomment %}
 
 {%- comment %}TODO: by 03-MAR: To be provided by Simon
 {% include download.liquid text='Modelvorm downloaden' %}

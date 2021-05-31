@@ -1,4 +1,4 @@
-Le Fanion Bleu 2021 est organisé par FOS Open Scouting, Scouts en Gidsen Vlaanderen,
+Le Fanion Bleu 2022 est organisé par FOS Open Scouting, Scouts en Gidsen Vlaanderen,
 les Scouts et Guides Pluralistes, en collaboration avec la Marine. 
 
 Si vous désirez devenir scout marin, veuillez prendre contact directement avec une unité près de chez vous.
