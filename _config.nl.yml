@@ -2,7 +2,7 @@ language: nl
 lcid: nl  # no region id for NL in MS Forms, see README!
 collections_dir: nl/cards
 title: Blauwe Wimpel 2022
-email_domain: '@blauwewimpel2021.be'
+email_domain: '@blauwewimpel2022.be'
 email_aliases_map:
   enrol: info
   sponsors: info
