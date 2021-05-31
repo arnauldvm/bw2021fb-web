@@ -3,14 +3,14 @@ grâce à la valorisation de ses compétences diverses, dans tous les aspects du
 
 Lors du Fanion Bleu, l’esprit d’équipe est prépondérant.
 
-Pour pouvoir participer au Fanion Bleu 2021,
+Pour pouvoir participer au Fanion Bleu 2022,
 il faut faire partie d’une équipe d’au moins 6 participants et au maximum 8 participants d’une même tranche d’âge. 
 
 Les tranches d’âge sont :
 
-- de 10 à 12 ans (né en 2011, 2010, 2009) 
-- de 13 à 15 ans (né en 2008, 2007, 2006) 
-- de 16 à 18 ans (né en 2005, 2004, 2003)
+- de 10 à 12 ans (né en 2012, 2011, 2010) 
+- de 13 à 15 ans (né en 2009, 2008, 2007) 
+- de 16 à 18 ans (né en 2006, 2005, 2004)
 
 #### Infos pratiques
 

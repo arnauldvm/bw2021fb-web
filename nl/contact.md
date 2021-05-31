@@ -1,4 +1,4 @@
-De Blauwe Wimpel 2021 wordt georganiseerd door FOS Open Scouting, Scouts en Gidsen Vlaanderen,
+De Blauwe Wimpel 2022 wordt georganiseerd door FOS Open Scouting, Scouts en Gidsen Vlaanderen,
 les Scouts et Guides Pluralistes de Belgique, in samenwerking met de Marine. 
 
 Als u een Zeescout wilt worden, neem dan direct contact op met een eenheid bij u in de buurt.

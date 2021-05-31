@@ -1,5 +1,5 @@
 Mijn eenheid is vooraf geregistreerd; wat gebeurt er met de borg betaald in het geval van annulering van het evenement om gezondheidsredenen?
-: In het geval van de annulering van de Blauwe Wimpel 2021 om gezondheidsredenen,
+: In het geval van de annulering van de Blauwe Wimpel 2022 om gezondheidsredenen,
   worden de betaalde borgsommen volledig teruggestort aan de eenheden die vooraf zijn geregistreerd.
 
 Ik heb de registratiedatum gemist, kan ik nog steeds deelnemen?

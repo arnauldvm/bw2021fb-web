@@ -17,6 +17,7 @@ Changelog
 - Content for 2022
 - Show version number
 - script for local run (testing)
+- update all dates
 
 ## 1.2.1 - 2021-05-13
 
