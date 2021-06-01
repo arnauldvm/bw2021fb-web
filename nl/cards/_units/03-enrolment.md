@@ -15,6 +15,7 @@ Uw inschrijving wordt pas in aanmerking genomen na ontvangst van het formulier e
 
 De inschrijvingen startten op **1<sup>ste</sup> januari 2022** en sluiten op **15 februari 2022**. {%- comment %}TBC: dates{% endcomment %}
 
+{%- comment %}TODO: date d'envoi des listes = 31 mars{% endcomment %}
 {%- comment %}TODO: by 03-MAR: To be provided by Simon
 {% include download.liquid text='Modelvorm downloaden' %}
 <mark>(Fichier modèle à fournir)</mark>
