@@ -18,6 +18,7 @@ Changelog
 - Show version number
 - script for local run (testing)
 - update all dates
+- new background image
 
 ## 1.2.1 - 2021-05-13
 
