@@ -15,10 +15,11 @@ Changelog
 ## 2.0 - _Unreleased_
 
 - Content for 2022
-- Show version number
-- script for local run (testing)
-- update all dates
-- new background image
+    - Update all dates
+    - Improve styles: new background image
+- Technical improvements
+    - Show version number
+    - Add script for local run (testing)
 
 ## 1.2.1 - 2021-05-13
 
