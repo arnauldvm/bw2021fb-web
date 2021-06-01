@@ -3,7 +3,7 @@ Changelog
 
 <!-- TOC -->
 
-- [2.0 - _Unreleased_](#20---_unreleased_)
+- [2.0b1 - 2021-06-01](#20b1---2021-06-01)
 - [1.2.1 - 2021-05-13](#121---2021-05-13)
 - [1.2 - 2021-05-04](#12---2021-05-04)
 - [1.1 - 2021-03-05](#11---2021-03-05)
@@ -12,12 +12,14 @@ Changelog
 
 <!-- /TOC -->
 
-## 2.0 - _Unreleased_
+## 2.0b1 - 2021-06-01
 
 - Content for 2022
-- Show version number
-- script for local run (testing)
-- update all dates
+    - Update all dates
+    - Improve styles: new background image
+- Technical improvements
+    - Show version number
+    - Add script for local run (testing)
 
 ## 1.2.1 - 2021-05-13
 
