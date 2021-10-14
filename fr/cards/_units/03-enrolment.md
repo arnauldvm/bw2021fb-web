@@ -9,7 +9,7 @@ Merci de mentionner l’heure approximative et la date d’arrivée dans le mail
 Votre inscription ne sera prise en compte qu’après réception du formulaire et du montant des inscriptions
 (32 euros par participant) sur le compte :
 
-> BW2021FB {%- comment %}TODO: Is the beneficiary changed?{% endcomment %}  
+> BW2022FB  
 > BE82 0018 9746 2668  
 > Communication : Participation + nom et numéro de l’unité
 

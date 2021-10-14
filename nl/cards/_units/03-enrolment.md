@@ -9,7 +9,7 @@ Gelieve de geschatte tijd en aankomstdatum in de e-mail en het bestand te vermel
 Uw inschrijving wordt pas in aanmerking genomen na ontvangst van het formulier en het bedrag van de inschrijvingen
 (32 euro per deelnemer) op de rekening:
 
-> Begunstigde: BW2021FB {%- comment %}TODO: Is the beneficiary changed?{% endcomment %}  
+> Begunstigde: BW2022FB  
 > IBAN: BE82 0018 9746 2668  
 > Mededeling: Participation + nom et numéro de l’unité
 
