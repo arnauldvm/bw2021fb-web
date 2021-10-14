@@ -19,6 +19,8 @@ Changelog <!-- omit in toc -->
 
 ## 2.0b1 - 2021-06-01
 
+([tag:release/2.0b1](../../tree/release/2.0b1))
+
 - Content for 2022
     - Update all dates
     - Improve styles: new background image
