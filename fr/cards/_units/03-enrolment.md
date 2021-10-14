@@ -1,5 +1,6 @@
 ---
 title: Inscription des participants
+hide: true
 ---
 L’inscription définitive des participants se fait en renvoyant le document ci-dessous complété à l’adresse :
 {% include email.liquid alias='enrol' %}

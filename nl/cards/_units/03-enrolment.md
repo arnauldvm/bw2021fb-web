@@ -1,5 +1,6 @@
 ---
 title: Registratie van de deelnemers
+hide: true
 ---
 De definitieve inschrijving van de deelnemers gebeurt door het onderstaande document in te vullen en door te sturen naar het volgend e-mailadres:
 {% include email.liquid alias='enrol' %}
