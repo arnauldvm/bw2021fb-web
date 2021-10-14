@@ -5,4 +5,4 @@ Du 6 au 8 mai 2022, Zeebrugge sera le centre de la Belgique pour les scouts mari
 
 _(Le détail des conditions de participatation sera prochainement disponible.)_
 
-{%- comment %}TODO: by 15-FEB: To be provided by ComPil{% endcomment %}
+{%- comment %}TODO: by 15-FEB: "General Conditions" to be provided by ComPil{% endcomment %}
