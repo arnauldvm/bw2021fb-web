@@ -15,6 +15,7 @@ Changelog <!-- omit in toc -->
 - bank account beneficiary = BW2022FB
 - restore background from version 1.2.1
 - temporarily remove units/enrollment frame
+- add [BACKLOG](./BACKLOG.md)
 
 ## 2.0b1 - 2021-06-01
 

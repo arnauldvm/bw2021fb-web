@@ -1,9 +1,8 @@
-Content
+Content <!-- omit in toc -->
 -------
 
-<!-- TOC -->
-
 - [History of changes](#history-of-changes)
+- [Things to do](#things-to-do)
 - [Multiple language support](#multiple-language-support)
     - [Files to edit](#files-to-edit)
     - [Select at build time](#select-at-build-time)
@@ -12,11 +11,13 @@ Content
 - [French](#french)
 - [Dutch](#dutch)
 
-<!-- /TOC -->
-
 ## History of changes
 
 See [CHANGELOG](./CHANGELOG.md)
+
+## Things to do
+
+See [BACKLOG](./BACKLOG.md)
 
 ## Multiple language support
 
