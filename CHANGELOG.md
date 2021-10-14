@@ -13,6 +13,7 @@ Changelog <!-- omit in toc -->
 
 - deadline pre-enrollment = 15-nov-2021
 - bank account beneficiary = BW2022FB
+- restore background from version 1.2.1
 
 ## 2.0b1 - 2021-06-01
 
