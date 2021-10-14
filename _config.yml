@@ -1,7 +1,9 @@
 exclude:
 - cSpell.json
+- fill_backlog.sh
 - run_local.sh
 - README.md
+- BACKLOG.md
 - CHANGELOG.md
 - fr
 - nl

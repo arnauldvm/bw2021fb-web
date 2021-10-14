@@ -8,4 +8,4 @@ En plus du matériel habituel pour un week-end, il y a lieu de se munir de :
 - Matelas pneumatique, sac de couchage
 - Gilet fluo
 
-{%- comment %}TODO: by 03-MAR: To be completed by FOS{% endcomment %}
+{%- comment %}TODO: by 03-MAR: list of equipment to be completed by FOS{% endcomment %}

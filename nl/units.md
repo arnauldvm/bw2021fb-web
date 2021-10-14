@@ -5,4 +5,4 @@ In de Marine basis willen we jullie allemaal met open armen ontvangen om samen t
 
 _(De gedetailleerde deelneming condities zullen binnenkort beschikbaar zijn.)_
 
-{%- comment %}TODO: by 15-FEB: To be provided by ComPil{% endcomment %}
+{%- comment %}TODO: by 15-FEB: "General Conditions" to be provided by ComPil{% endcomment %}
