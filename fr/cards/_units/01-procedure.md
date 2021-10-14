@@ -1,11 +1,11 @@
 ---
 title: Pré-inscription
 ---
-Pour participer, remplissez le formulaire d’inscription avant le 15 octobre 2021. {%- comment %}TBC: date{% endcomment %}
+Pour participer, remplissez le formulaire d’inscription avant le 15 novembre 2021.
 Veuillez également nous informer si votre unité ne participera pas au Fanion Bleu 2022.
 
 Votre participation ne sera prise en compte qu’après réception du formulaire et d’une caution de 150 euros
-sur le numéro de compte suivant pour le 15 octobre au plus tard: {%- comment %}TBC: date{% endcomment %}
+sur le numéro de compte suivant pour le 15 novembre au plus tard:
 
 > Bénéficiaire : BW2021FB {%- comment %}TODO: Is the beneficiary changed?{% endcomment %}  
 > IBAN : BE82 0018 9746 2668  
