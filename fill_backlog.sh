@@ -8,7 +8,7 @@ cat >> BACKLOG.md <<EOF
 | File | Task |
 |:---- |:---- |
 EOF
-egrep -r --exclude '*LOG.md' '[T]ODO|[T]BC' . \
+egrep -r --exclude '*LOG.md' --exclude-dir '.git*' '[T]ODO|[T]BC' . \
 | sed -r '
     s/^([^:]+):/| [`\1`](\1) | « /
     s/\{%-? comment -?%\}/ »<br>/
