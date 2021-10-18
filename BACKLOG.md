@@ -15,7 +15,5 @@ Here is the list of remaning tasks.
 | [`./nl/units.md`](./nl/units.md) | « _(De gedetailleerde deelneming condities zullen binnenkort beschikbaar zijn.)_  »<br><span style="background-color:cornsilk">**TODO**: (review 2021-10-17: Rename to "Conditions Générales")</span> |
 | [`./nl/units.md`](./nl/units.md) | <span style="background-color:cornsilk">**TODO**: by 15-FEB: "General Conditions" to be provided by ComPil (review 2021-10-17: Cf. Aurora)</span> |
 | [`./README.md`](./README.md) | « - plus, files `/*.md` &rarr; edit "front matter" to define page title in each language. <span style="background-color:cornsilk">**TODO**: move this information in a title under `fr/` and `nl/`</span> |
-| [`./_includes/fr/postponing.html`](./_includes/fr/postponing.html) | <span style="background-color:cornsilk">**TODO**: Remove subpages short disclaimer (review 2021-10-17: remove)</span> |
 | [`./_includes/fr/postponing_full.html`](./_includes/fr/postponing_full.html) | <span style="background-color:cornsilk">**TODO**: Remove front page full disclaimer (review 2021-10-17: keep only highlighted line)</span> |
-| [`./_includes/nl/postponing.html`](./_includes/nl/postponing.html) | <span style="background-color:cornsilk">**TODO**: Remove subpages short disclaimer (review 2021-10-17: remove)</span> |
 | [`./_includes/nl/postponing_full.html`](./_includes/nl/postponing_full.html) | <span style="background-color:cornsilk">**TODO**: Remove front page full disclaimer (review 2021-10-17: keep only highlighted line)</span> |
