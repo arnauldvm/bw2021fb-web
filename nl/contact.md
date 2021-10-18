@@ -5,8 +5,10 @@ Als u een Zeescout wilt worden, neem dan direct contact op met een eenheid bij u
 
 - **Algemeen contact: {% include email.liquid alias='info' %}**
 
+{%- comment %}
 - Registratie contact: {% include email.liquid alias='enrol' %}
 - Contact sponsoring: {% include email.liquid alias='sponsors' %}
 - Perscontact: {% include email.liquid alias='press' %}
 - Vrijwilligerscontact: {% include email.liquid alias='volunteers' %}
+{% endcomment %}
 - Technische IT ondersteuning: {% include email.liquid alias='it_support' %}

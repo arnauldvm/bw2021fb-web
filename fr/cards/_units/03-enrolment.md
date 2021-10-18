@@ -14,9 +14,8 @@ Votre inscription ne sera prise en compte qu’après réception du formulaire e
 > BE82 0018 9746 2668  
 > Communication : Participation + nom et numéro de l’unité
 
-L’inscription des participants s'ouvrira le **1<sup>er</sup> janvier 2022** et se clôturera le **15 février 2022**. {%- comment %}TBC: dates{% endcomment %}
+L’inscription des participants s'ouvrira le **1<sup>er</sup> janvier 2022** et se clôturera le **31 mars 2022**.
 
-{%- comment %}TODO: date d'envoi des listes = 31 mars{% endcomment %}
 {%- comment %}TODO: by 03-MAR: Excel template to be provided by Simon
 {% include download.liquid text='Télécharger le template' %}
 <mark>(Fichier modèle à fournir)</mark>

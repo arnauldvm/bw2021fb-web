@@ -1,6 +1,7 @@
 Changelog <!-- omit in toc -->
 =========
 
+- [2.0b3 - 2021-10-18](#20b3---2021-10-18)
 - [2.0b2 - 2021-10-15](#20b2---2021-10-15)
 - [2.0b1 - 2021-06-01](#20b1---2021-06-01)
 - [1.2.1 - 2021-05-13](#121---2021-05-13)
@@ -8,6 +9,20 @@ Changelog <!-- omit in toc -->
 - [1.1 - 2021-03-05](#11---2021-03-05)
 - [1.0.1 - 2021-01-23](#101---2021-01-23)
 - [1.0 - 2021-01-20](#10---2021-01-20)
+
+## 2.0b3 - 2021-10-18
+
+Base on review 2021-10-18:
+
+- add(join_us/sgv): new unit in Willebroek
+- fix(units/procedure): caution refund only according to general conditions
+- fix(units/enrollment): by 31-MAR
+- fix(units/dates): enrollment by 31-MAR
+- fix(contact): remove redundant addresses
+- clean(participants): practical info confirmed
+- clean(units): dates confirmed
+- fix(layouts/page): remove disclaimer
+- fix(layouts/home): keep only dates in disclaimer
 
 ## 2.0b2 - 2021-10-15
 

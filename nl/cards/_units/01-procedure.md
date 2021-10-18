@@ -11,4 +11,4 @@ op het volgende rekeningnummer ten laatste voor 15 november:
 > IBAN: BE82 0018 9746 2668  
 > Mededeling: Blauwe Wimpel + naam (+ nummer) eenheid
 
-Deze aanbetaling wordt terugbetaald na het evenement of in geval van annulering als gevolg van COVID.{%- comment %}TODO: Replace by: Cette caution ne pourra être remboursée que selon les termes des conditions générales.{% endcomment %}
+Deze aanbetaling kan alleen worden terugbetaald volgens de algemene voorwaarden.
