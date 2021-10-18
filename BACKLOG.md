@@ -7,8 +7,6 @@ Here is the list of remaning tasks.
 | File | Task |
 |:---- |:---- |
 | [`./fr/cards/_participants/01-practical.md`](./fr/cards/_participants/01-practical.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: list of equipment to be completed by FOS (review 2021-10-17: Wait)</span> |
-| [`./fr/cards/_units/03-enrolment.md`](./fr/cards/_units/03-enrolment.md) | « L’inscription des participants s'ouvrira le **1<sup>er</sup> janvier 2022** et se clôturera le **15 février 2022**.  »<br><span style="background-color:peachpuff">**TBC**: dates (review 2021-10-17: change to 31 mars)</span> |
-| [`./fr/cards/_units/03-enrolment.md`](./fr/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: date d'envoi des listes = 31 mars (review 2021-10-17: Confirmed)</span> |
 | [`./fr/cards/_units/03-enrolment.md`](./fr/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: Excel template to be provided by Simon</span> |
 | [`./fr/cards/_units/05-dates.md`](./fr/cards/_units/05-dates.md) | « - Inscription participants : 1/1 au 15/2/2022  »<br><span style="background-color:cornsilk">**TODO**: remove? (review 2021-10-17: change to 31 mars)</span> |
 | [`./fr/cards/_units/06-contact_us.md`](./fr/cards/_units/06-contact_us.md) | « Pour la liste de tous les adresses mail de contact, cliquez [ici](contact.html). »<br><span style="background-color:cornsilk">**TODO**: (review 2021-10-17: "tous" -> "toutes les")</span> |
@@ -18,8 +16,6 @@ Here is the list of remaning tasks.
 | [`./fr/units.md`](./fr/units.md) | « _(Le détail des conditions de participatation sera prochainement disponible.)_  »<br><span style="background-color:cornsilk">**TODO**: (review 2021-10-17: Rename to "Conditions Générales")</span> |
 | [`./fr/units.md`](./fr/units.md) | <span style="background-color:cornsilk">**TODO**: by 15-FEB: "General Conditions" to be provided by ComPil (review 2021-10-17: Cf. Aurore)</span> |
 | [`./nl/cards/_participants/01-practical.md`](./nl/cards/_participants/01-practical.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: list of equipment to be completed by FOS (review 2021-10-17: Wait)</span> |
-| [`./nl/cards/_units/03-enrolment.md`](./nl/cards/_units/03-enrolment.md) | « De inschrijvingen startten op **1<sup>ste</sup> januari 2022** en sluiten op **15 februari 2022**.  »<br><span style="background-color:peachpuff">**TBC**: dates (review 2021-10-17: change to 31 mars)</span> |
-| [`./nl/cards/_units/03-enrolment.md`](./nl/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: date d'envoi des listes = 31 mars (review 2021-10-17: Confirmed)</span> |
 | [`./nl/cards/_units/03-enrolment.md`](./nl/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: Excel template to be provided by Simon</span> |
 | [`./nl/cards/_units/05-dates.md`](./nl/cards/_units/05-dates.md) | « - Inschrijving deelnemers: 1/1 tot 15/2/2022  »<br><span style="background-color:cornsilk">**TODO**: remove? (review 2021-10-17: change to 31 mars)</span> |
 | [`./nl/contact.md`](./nl/contact.md) | <span style="background-color:cornsilk">**TODO**: (review 2021-10-17: Remove redundant addresses)</span> |
