@@ -10,5 +10,5 @@ title: Chez Scouts en Gidsen Vlaanderen
 - À Ophoven, [zeescouting “De Pebbles”](https://www.zeescoutingpebbles.be){:target="_blank"}
 - À Ostende, [zeescouts “De Schorre”](https://zeescoutsdeschorre.be){:target="_blank"}
 - À Turnhout, [zeescouting “Toxandria”](https://zeescoutstoxandria.be){:target="_blank"}
-- À Willebroeck [zeescouting "Rupera"](https://zeescoutsrupera.scoutsgroep.be/){:target="_blank"}
+- À Willebroeck, [zeescouting "Rupera"](https://zeescoutsrupera.scoutsgroep.be/){:target="_blank"}
 - À Zeebruges, [zeescouts “Stella-Maris”](https://zeescoutszeebrugge.be){:target="_blank"}
