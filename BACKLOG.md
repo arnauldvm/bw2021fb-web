@@ -7,7 +7,6 @@ Here is the list of remaning tasks.
 | File | Task |
 |:---- |:---- |
 | [`./fr/cards/_participants/01-practical.md`](./fr/cards/_participants/01-practical.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: list of equipment to be completed by FOS (review 2021-10-17: Wait)</span> |
-| [`./fr/cards/_units/01-procedure.md`](./fr/cards/_units/01-procedure.md) | « Cette caution sera remboursée après l’événement ou en cas d’annulation pour cause COVID. »<br><span style="background-color:cornsilk">**TODO**: Replace by: Cette caution ne pourra être remboursée que selon les termes des conditions générales. (review 2021-10-17: Confirmed)</span> |
 | [`./fr/cards/_units/03-enrolment.md`](./fr/cards/_units/03-enrolment.md) | « L’inscription des participants s'ouvrira le **1<sup>er</sup> janvier 2022** et se clôturera le **15 février 2022**.  »<br><span style="background-color:peachpuff">**TBC**: dates (review 2021-10-17: change to 31 mars)</span> |
 | [`./fr/cards/_units/03-enrolment.md`](./fr/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: date d'envoi des listes = 31 mars (review 2021-10-17: Confirmed)</span> |
 | [`./fr/cards/_units/03-enrolment.md`](./fr/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: Excel template to be provided by Simon</span> |
@@ -19,7 +18,6 @@ Here is the list of remaning tasks.
 | [`./fr/units.md`](./fr/units.md) | « _(Le détail des conditions de participatation sera prochainement disponible.)_  »<br><span style="background-color:cornsilk">**TODO**: (review 2021-10-17: Rename to "Conditions Générales")</span> |
 | [`./fr/units.md`](./fr/units.md) | <span style="background-color:cornsilk">**TODO**: by 15-FEB: "General Conditions" to be provided by ComPil (review 2021-10-17: Cf. Aurore)</span> |
 | [`./nl/cards/_participants/01-practical.md`](./nl/cards/_participants/01-practical.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: list of equipment to be completed by FOS (review 2021-10-17: Wait)</span> |
-| [`./nl/cards/_units/01-procedure.md`](./nl/cards/_units/01-procedure.md) | « Deze aanbetaling wordt terugbetaald na het evenement of in geval van annulering als gevolg van COVID. »<br><span style="background-color:cornsilk">**TODO**: Replace by: Cette caution ne pourra être remboursée que selon les termes des conditions générales. (review 2021-10-17: Confirmed)</span> |
 | [`./nl/cards/_units/03-enrolment.md`](./nl/cards/_units/03-enrolment.md) | « De inschrijvingen startten op **1<sup>ste</sup> januari 2022** en sluiten op **15 februari 2022**.  »<br><span style="background-color:peachpuff">**TBC**: dates (review 2021-10-17: change to 31 mars)</span> |
 | [`./nl/cards/_units/03-enrolment.md`](./nl/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: date d'envoi des listes = 31 mars (review 2021-10-17: Confirmed)</span> |
 | [`./nl/cards/_units/03-enrolment.md`](./nl/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: Excel template to be provided by Simon</span> |
