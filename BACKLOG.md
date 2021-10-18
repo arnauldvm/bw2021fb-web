@@ -8,7 +8,6 @@ Here is the list of remaning tasks.
 |:---- |:---- |
 | [`./fr/cards/_participants/01-practical.md`](./fr/cards/_participants/01-practical.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: list of equipment to be completed by FOS (review 2021-10-17: Wait)</span> |
 | [`./fr/cards/_units/03-enrolment.md`](./fr/cards/_units/03-enrolment.md) | <span style="background-color:cornsilk">**TODO**: by 03-MAR: Excel template to be provided by Simon</span> |
-| [`./fr/cards/_units/06-contact_us.md`](./fr/cards/_units/06-contact_us.md) | « Pour la liste de tous les adresses mail de contact, cliquez [ici](contact.html). »<br><span style="background-color:cornsilk">**TODO**: (review 2021-10-17: "tous" -> "toutes les")</span> |
 | [`./fr/contact.md`](./fr/contact.md) | <span style="background-color:cornsilk">**TODO**: (review 2021-10-17: Remove redundant addresses)</span> |
 | [`./fr/participants.md`](./fr/participants.md) | <span style="background-color:cornsilk">**TODO**: Practial info to be completed by FOS (review 2021-10-17: keep as is, close task)</span> |
 | [`./fr/units.md`](./fr/units.md) | « Du 6 au 8 mai 2022, Zeebrugge sera le centre de la Belgique pour les scouts marins.  »<br><span style="background-color:peachpuff">**TBC**: dates (review 2021-10-17: Confirmed)</span> |
