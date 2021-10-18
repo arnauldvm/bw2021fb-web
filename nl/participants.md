@@ -17,4 +17,4 @@ De leeftijdsgroepen zijn:
 Elk ploeg wordt geregistreerd onder de naam van een dier.
 Deelnemers worden geregistreerd via hun eenheid, er is geen individuele registratie gepland.
 
-{%- comment %}TODO: Practial info to be completed by FOS{% endcomment %}
+{%- comment %}TODO: Practial info to be completed by FOS (review 2021-10-17: keep as is, close task){% endcomment %}

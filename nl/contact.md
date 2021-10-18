@@ -10,3 +10,5 @@ Als u een Zeescout wilt worden, neem dan direct contact op met een eenheid bij u
 - Perscontact: {% include email.liquid alias='press' %}
 - Vrijwilligerscontact: {% include email.liquid alias='volunteers' %}
 - Technische IT ondersteuning: {% include email.liquid alias='it_support' %}
+
+{%- comment %}TODO: (review 2021-10-17: Remove redundant addresses){% endcomment %}

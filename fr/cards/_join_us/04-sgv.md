@@ -11,3 +11,5 @@ title: Chez Scouts en Gidsen Vlaanderen
 - À Ostende, [zeescouts “De Schorre”](https://zeescoutsdeschorre.be){:target="_blank"}
 - À Turnhout, [zeescouting “Toxandria”](https://zeescoutstoxandria.be){:target="_blank"}
 - À Zeebruges, [zeescouts “Stella-Maris”](https://zeescoutszeebrugge.be){:target="_blank"}
+
+{%- comment %}TODO: (review 2021-10-17: New unit in Willebroek){% endcomment %}
