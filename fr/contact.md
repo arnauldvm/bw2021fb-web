@@ -5,10 +5,10 @@ Si vous désirez devenir scout marin, veuillez prendre contact directement avec 
 
 - **Contact général : {% include email.liquid alias='info' %}**
 
+{%- comment %}
 - Contact inscriptions : {% include email.liquid alias='enrol' %}
 - Contact sponsoring : {% include email.liquid alias='sponsors' %}
 - Contact presse : {% include email.liquid alias='press' %}
 - Contact bénévoles : {% include email.liquid alias='volunteers' %}
+{% endcomment %}
 - Support technique IT : {% include email.liquid alias='it_support' %}
-
-{%- comment %}TODO: (review 2021-10-17: Remove redundant addresses){% endcomment %}
