@@ -1,4 +1,4 @@
-Van 6 t.e.m. 8 mei 2022 wordt Zeebrugge het centrum van België voor zeescoutsen. {%- comment %}TBC: dates (review 2021-10-17: Confirmed){% endcomment %}
+Van 6 t.e.m. 8 mei 2022 wordt Zeebrugge het centrum van België voor zeescoutsen.
 In de Marine basis willen we jullie allemaal met open armen ontvangen om samen te strijden voor de Blauwe Wimpel 2022. 
 
 #### Deelneming condities
