@@ -4,6 +4,8 @@ body {
     /* from https://pixabay.com/images/search/sailing%20ships */
     /* background: url('https://cdn.pixabay.com/photo/2018/10/07/10/24/sail-3729599_1280.jpg') no-repeat center center fixed; */
     background: url('https://cdn.pixabay.com/photo/2018/10/07/10/24/sail-3729600_1280.jpg') no-repeat center center fixed;
+    /* background: url('https://cdn.pixabay.com/photo/2013/09/26/22/37/sea-186826_1280.jpg') no-repeat center center fixed; */
+    /* background: url('https://images.pexels.com/photos/7320/sea-ocean-sailing-ship-boat.jpg?auto=compress&cs=tinysrgb&h=650&w=940') no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

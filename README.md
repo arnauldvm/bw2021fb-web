@@ -1,30 +1,30 @@
-Content
+Content <!-- omit in toc -->
 -------
 
-<!-- TOC -->
-
 - [History of changes](#history-of-changes)
+- [Things to do](#things-to-do)
 - [Multiple language support](#multiple-language-support)
-    - [Files to edit](#files-to-edit)
-    - [Select at build time](#select-at-build-time)
-    - [Forms selection](#forms-selection)
+  - [Files to edit](#files-to-edit)
+  - [Select at build time](#select-at-build-time)
+  - [Forms selection](#forms-selection)
 - [Content](#content)
 - [French](#french)
 - [Dutch](#dutch)
 
-<!-- /TOC -->
-
 ## History of changes
 
 See [CHANGELOG](./CHANGELOG.md)
+
+## Things to do
+
+See [BACKLOG](./BACKLOG.md)
 
 ## Multiple language support
 
 ### Files to edit
 
 - all files under `fr/` (for French) or `nl/` (for Dutch)
-- plus, files `/*.md` &rarr; edit "front matter" to define page title in each language  
-  (TODO: move this informaiton in a title under `fr/` and `nl/`)
+- plus, files `/*.md` &rarr; edit "front matter" to define page title in each language. TODO: move this information in a title under `fr/` and `nl/`
 
 ### Select at build time
 

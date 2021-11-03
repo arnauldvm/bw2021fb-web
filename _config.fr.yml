@@ -1,8 +1,8 @@
 language: fr
 lcid: fr-FR
 collections_dir: fr/cards
-title: Fanion Bleu 2021
-email_domain: '@fanionbleu2021.be'
+title: Fanion Bleu 2022
+email_domain: '@fanionbleu2022.be'
 email_aliases_map:
   enrol: info
   sponsors: info
