@@ -1,7 +1,7 @@
-De Blauwe Wimpel is vooral een geweldig posten-spel waar elke ploeg de mogelijkheid heeft om punten te verdienen
-door de promotie van zijn verschillende vaardigheden, in alle aspecten van de zeescouting.
+De Blauwe Wimpel is vooral een geweldig posten-spel waar elke patrouille of kwatier de mogelijkheid heeft om punten te verdienen
+door het inzetten van verschillende scoutsvaardigheden.
 
-Bij de Blauwe Wimpel staat teamspirit voorop.
+En uiteraard staat tijdens een Blauwe Wimpel de teamspirit voorop.
 
 Om deel te nemen aan de Blauwe Wimpel 2022,
 moet je deel uitmaken van een kwartier van minimaal 6 deelnemers en maximaal 8 deelnemers uit dezelfde leeftijdsgroep.

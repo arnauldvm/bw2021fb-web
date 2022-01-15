@@ -1,7 +1,7 @@
 ---
 titles:
   fr: Unités scoutes
-  nl: Scout eenheden
+  nl: Eenheden
 cards: units
 order: 110
 ---
