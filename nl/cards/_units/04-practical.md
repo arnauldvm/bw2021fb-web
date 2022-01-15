@@ -1,8 +1,8 @@
 ---
-title: Informations pratiques
+title: Praktische info
 ---
 Waar?
-: > Op marinebasis Graaf Jansdijk 1, 8380 Zeebrugge
+: > Marinebasis; Graaf Jansdijk 1; 8380 Zeebrugge
 
 Leeftijdscategorieën?
 : 10 tot 12 jaar oud (geboren in 2012, 2011, 2010)
@@ -11,7 +11,7 @@ Leeftijdscategorieën?
 
 (Een kwartier bestaat uit ten minste 6 personen en maximaal 8 personen)
 
-Deelname aan kosten?
+Deelname in de kosten?
 : 32€ (transfer tussen station Zeebrugge en marinebasis te voet)
 
 Leiding?
