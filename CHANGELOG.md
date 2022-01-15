@@ -14,6 +14,7 @@ Changelog <!-- omit in toc -->
 ## 2.1b1 - 2022-01-15
 
 - NL: corrections sent by Kris Bauters op 2022-01-14
+- fix(participants/practical): updated list based on NL version
 
 ## 2.0b3 - 2021-10-18
 
