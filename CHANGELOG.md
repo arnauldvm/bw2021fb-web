@@ -1,6 +1,9 @@
 Changelog <!-- omit in toc -->
 =========
 
+- [2.1 - 2022-02-24](#21---2022-02-24)
+- [2.1b2 - 2022-02-24](#21b2---2022-02-24)
+- [2.1b1 - 2022-01-15](#21b1---2022-01-15)
 - [2.0b3 - 2021-10-18](#20b3---2021-10-18)
 - [2.0b2 - 2021-10-15](#20b2---2021-10-15)
 - [2.0b1 - 2021-06-01](#20b1---2021-06-01)
@@ -10,9 +13,24 @@ Changelog <!-- omit in toc -->
 - [1.0.1 - 2021-01-23](#101---2021-01-23)
 - [1.0 - 2021-01-20](#10---2021-01-20)
 
+## 2.1 - 2022-02-24
+
+- enrollment: information is received by email
+
+Publish to PROD
+
+## 2.1b2 - 2022-02-24
+
+- Add general conditions
+- 
+## 2.1b1 - 2022-01-15
+
+- NL: corrections sent by Kris Bauters op 2022-01-14
+- fix(participants/practical): updated list based on NL version
+
 ## 2.0b3 - 2021-10-18
 
-Base on review 2021-10-18:
+Based on review 2021-10-18:
 
 - add(join_us/sgv): new unit in Willebroek
 - fix(units/procedure): caution refund only according to general conditions

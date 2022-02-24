@@ -1,8 +1,6 @@
-Van 6 t.e.m. 8 mei 2022 wordt Zeebrugge het centrum van België voor zeescoutsen.
-In de Marine basis willen we jullie allemaal met open armen ontvangen om samen te strijden voor de Blauwe Wimpel 2022. 
+Zeebrugge wordt van 6 tot en met 8 mei 2022 het centrum van België.
+We ontvangen jullie met open armen op de Marinebasis om samen te strijden om de Blauwe Wimpel 2022. 
 
-#### Deelneming condities
+#### Algemene voorwaarden
 
-_(De gedetailleerde deelneming condities zullen binnenkort beschikbaar zijn.)_ {%- comment %}TODO: (review 2021-10-17: Rename to "Conditions Générales"){% endcomment %}
-
-{%- comment %}TODO: by 15-FEB: "General Conditions" to be provided by ComPil (review 2021-10-17: Cf. Aurora){% endcomment %}
+De algemene voorwaarden zijn beschikbaar in een apart bestand: {% include download.liquid text='downloaden' url='assets/pdf/BW2022FB-Conditions_generales-Algemene_voorwaarden.pdf' %} .

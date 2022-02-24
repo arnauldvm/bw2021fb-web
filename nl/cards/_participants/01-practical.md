@@ -1,11 +1,9 @@
 ---
-title:  Individueel afhaalmateriaal
+title:  Mee te brengen
 ---
 Naast de gebruikelijke weekenduitrusting, moet u het volgende voorzien:
 
 - Zwembroek
 - Gamelle, bestek en beker
-- Luchtmatrassen, slaapzakken
+- Matje of Luchtmatras, slaapzak
 - Fluo hesje
-
-{%- comment %}TODO: by 03-MAR: list of equipment to be completed by FOS (review 2021-10-17: Wait){% endcomment %}
