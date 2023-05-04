@@ -15,4 +15,4 @@ esac
 options=()
 options+=(--config=_config.yml,_config.$lang.yml)
 
-bundle exec jekyll serve "${options[@]}"
+(set -x; bundle exec jekyll serve "${options[@]}")
