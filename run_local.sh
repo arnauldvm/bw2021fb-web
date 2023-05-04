@@ -16,5 +16,7 @@ options=()
 options+=(--config=_config.yml,_config.$lang.yml)
 # options+=(--incremental)  # Does not detect changes properly when switching language
 options+=(--livereload)
+# options+=(--watch)
+options+=(--force_polling)  # Because of https://github.com/microsoft/WSL/issues/216
 
 (set -x; bundle exec jekyll serve "${options[@]}")
