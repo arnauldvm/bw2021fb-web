@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 usage() {
     echo>&2 "Usage: $0 {lang (nl|fr)}"
@@ -12,4 +12,11 @@ case "$lang" in
     *)  usage; exit 1;;
 esac
 
-bundle exec jekyll serve --config=_config.yml,_config.$lang.yml
+options=()
+options+=(--config=_config.yml,_config.$lang.yml)
+# options+=(--incremental)  # Does not detect changes properly when switching language
+options+=(--livereload)
+# options+=(--watch)
+options+=(--force_polling)  # Because of https://github.com/microsoft/WSL/issues/216
+
+(set -x; bundle exec jekyll serve "${options[@]}")
