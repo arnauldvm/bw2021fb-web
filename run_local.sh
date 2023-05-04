@@ -15,5 +15,6 @@ esac
 options=()
 options+=(--config=_config.yml,_config.$lang.yml)
 # options+=(--incremental)  # Does not detect changes properly when switching language
+options+=(--livereload)
 
 (set -x; bundle exec jekyll serve "${options[@]}")
