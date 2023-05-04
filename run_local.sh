@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 usage() {
     echo>&2 "Usage: $0 {lang (nl|fr)}"
@@ -12,4 +12,7 @@ case "$lang" in
     *)  usage; exit 1;;
 esac
 
-bundle exec jekyll serve --config=_config.yml,_config.$lang.yml
+options=()
+options+=(--config=_config.yml,_config.$lang.yml)
+
+bundle exec jekyll serve "${options[@]}"
